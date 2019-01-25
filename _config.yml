@@ -6,7 +6,7 @@ logo: two-tone-logo.svg # 120x120 px default image used for Twitter summary card
 teaser: 400x250-placeholder.gif # 400x250 px default teaser image used in image archive grid
 locale: en
 timezone: America/New_York
-url:
+url: https://datavized.github.io/twotone.io/
 feed:
   path: atom.xml
 company: Datavized Technologies, Inc.
