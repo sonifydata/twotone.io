@@ -1,0 +1,39 @@
+---
+layout: basic
+---
+{% include header.html %}
+{% include navigation-sliding.html %}
+
+{% if page.image.feature %}
+<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+{% else %}
+<div class="page-lead">
+{% endif %}
+	<div class="wrap page-lead-content">
+		<h1>Welcome to TwoTone</h1>
+		<h2>A free and open-source tool to make music from data</h2>
+		<a href="{{ site.url }}/getting-started/" class="btn-inverse">Get Started</a> &nbsp; or &nbsp; <a href="https://github.com/datavized/twotone" class="btn-inverse">View on GitHub</a>
+	</div><!-- /.page-lead-content -->
+</div><!-- /.page-lead -->
+
+<div id="page-wrapper">
+	{% include browser-upgrade.html %}
+
+	<div id="main" role="main">
+		<div class="wrap">
+			<div class="page-title">
+				<h1>{{ page.title }}</h1>
+				{% if page.excerpt %}<h2>{{ page.excerpt }}</h2>{% endif %}
+			</div>
+			<div class="archive-wrap">
+				<div class="page-content">
+					<div class="tiles home-tiles">
+						{{ content }}
+					</div>
+				</div><!-- /.page-content -->
+			</div class="archive-wrap"><!-- /.archive-wrap -->
+		</div><!-- /.wrap -->
+	</div><!-- /#main -->
+
+	{% include footer.html %}
+</div>
