@@ -26,6 +26,26 @@ plugins:
   - jekyll-gist
   - jekyll-feed
 
+# Default Front Matter values
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "article"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "article"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "drafts"
+    values:
+      layout: "article"
 
 # Site owner
 owner:
@@ -51,11 +71,13 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
+  - CNAME
   - Capfile
   - Gemfile
   - Gruntfile.js
   - LICENSE
   - README
+  - README.md
   - Rakefile
   - config
   - gulpfile.js
@@ -63,5 +85,6 @@ exclude:
   - log
   - node_modules
   - package.json
+  - package-lock.json
   - spec
   - tmp

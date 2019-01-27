@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Video Tutorial Test
 date: 2019-01-25T22:03:43.416Z
 modified:

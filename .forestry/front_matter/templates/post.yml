@@ -8,18 +8,6 @@ fields:
   label: Title
   config:
     required: true
-- type: select
-  name: layout
-  config:
-    source:
-      type: simple
-      section: jekyll-posts
-    required: true
-    options:
-    - article
-    - media
-  label: Layout
-  default: article
 - type: datetime
   name: date
   label: Date
@@ -50,5 +38,19 @@ fields:
   template: image
   label: Image
   name: image
+- type: select
+  name: layout
+  config:
+    source:
+      type: simple
+      section: jekyll-posts
+    required: false
+    options:
+    - article
+    - archive
+    - basic
+    - default
+  label: Layout
+  default: article
 pages:
 - _posts/test-blog-post.md

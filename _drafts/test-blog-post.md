@@ -1,5 +1,4 @@
 ---
-layout: media
 title: test blog post
 date: 2019-01-27 10:00:00 -0500
 modified: ''
