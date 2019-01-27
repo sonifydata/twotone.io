@@ -1,15 +1,18 @@
 ---
 title: Video Tutorial Test
-date: 2019-01-25T22:03:43.416Z
-modified:
+date: 2019-01-25 22:03:43 +0000
+modified: 
 categories: tutorials
 excerpt: An introduction to TwoTone
-tags: [video, tutorial]
+tags:
+- video
+- tutorial
 image:
-  feature:
-  teaser:
----
+  feature: 
+  teaser: 
+layout: article
 
+---
 Watch this short video to learn about TwoTone’s text-to-speech feature.
 
 Enter a title to automatically generate text-to-speech, google to turn speech on or off. Customize settings for language gender and voice options.
