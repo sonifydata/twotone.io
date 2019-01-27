@@ -7,9 +7,6 @@ categories:
 - examples
 excerpt: this is a test of front matter
 tags: []
-feature: "/images/boston-feature-1600x800.jpg"
-teaser: "/images/boston-feature-400x250.jpg"
-credit: ''
 image:
   feature: "/images/boston-feature-1600x800.jpg"
   teaser: "/images/boston-feature-400x250.jpg"
