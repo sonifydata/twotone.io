@@ -1,0 +1,16 @@
+---
+label: Image
+hide_body: false
+is_partial: false
+fields:
+- type: file
+  label: Feature
+  name: feature
+  description: High-res image featured at top of post (1600x8000
+- type: file
+  label: Teaser
+  name: teaser
+  description: Smaller image shown as thumbnail (400x250)
+- type: text
+  name: credit
+  label: Image Credit
