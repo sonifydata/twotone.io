@@ -20,11 +20,6 @@ fields:
     - media
   label: Layout
   default: article
-- type: tag_list
-  name: categories
-  label: Categories
-  description: Required. Use "examples" or "tutorials" to have post listed on one
-    of those pages.
 - type: datetime
   name: date
   label: Date
@@ -37,8 +32,21 @@ fields:
   label: Date Modified
   description: Optional. If you want the post to show a date that it has been updated.
 - type: tag_list
+  name: categories
+  label: Categories
+  description: Required. Use "examples" or "tutorials" to have post listed on one
+    of those pages.
+- type: textarea
+  name: excerpt
+  label: Excerpt
+  description: One sentence that describes the post in the listing page
+  config:
+    required: true
+- type: tag_list
   name: tags
   label: Tags
   description: Any keyword "tags" that you want to add to the post.
-- type: image_gallery
 - type: include
+  template: image
+  label: Image
+  name: image
