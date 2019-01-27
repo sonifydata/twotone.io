@@ -30,20 +30,12 @@ plugins:
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
-      type: "pages"
+      path: "*.md" # an empty string here means all files in the project
     values:
       layout: "article"
   -
     scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts"
-    values:
-      layout: "article"
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "drafts"
+      path: "*.html" # an empty string here means all files in the project
     values:
       layout: "article"
 
