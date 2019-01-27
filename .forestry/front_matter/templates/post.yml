@@ -19,6 +19,7 @@ fields:
     - article
     - media
   label: Layout
+  default: article
 - type: tag_list
   name: categories
   label: Categories
