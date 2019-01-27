@@ -1,0 +1,43 @@
+---
+label: Post
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: select
+  name: layout
+  config:
+    source:
+      type: simple
+      section: jekyll-posts
+    required: true
+    options:
+    - article
+    - media
+  label: Layout
+- type: tag_list
+  name: categories
+  label: Categories
+  description: Required. Use "examples" or "tutorials" to have post listed on one
+    of those pages.
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+  description: The date and time the post is published. This must be set manually.
+    If you set it in the future, the post will not publish right away.
+- type: datetime
+  name: modified
+  label: Date Modified
+  description: Optional. If you want the post to show a date that it has been updated.
+- type: tag_list
+  name: tags
+  label: Tags
+  description: Any keyword "tags" that you want to add to the post.
+- type: image_gallery
+- type: include
