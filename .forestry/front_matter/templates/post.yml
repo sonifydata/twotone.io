@@ -54,3 +54,4 @@ fields:
   default: article
 pages:
 - _posts/test-blog-post.md
+- _posts/2019-01-25-what-does-economic-disparity-sound-like-in-boston.md
