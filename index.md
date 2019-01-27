@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: TwoTone-background.png
+  feature: /images/TwoTone-background.png
 ---
 <!--
 ## Developed by
