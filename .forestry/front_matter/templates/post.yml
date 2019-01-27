@@ -50,3 +50,5 @@ fields:
   template: image
   label: Image
   name: image
+pages:
+- _posts/test-blog-post.md
