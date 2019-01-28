@@ -44,7 +44,7 @@ fields:
     source:
       type: simple
       section: jekyll-posts
-    required: false
+    required: true
     options:
     - article
     - archive
