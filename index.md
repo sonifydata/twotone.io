@@ -8,7 +8,7 @@ image:
 <!--
 ## Developed by
 
-TwoTone is made by [Datavized Technologies](https://datavized.com) with Support from [Google News Initiative](https://newsinitiative.withgoogle.com).
+TwoTone is made by [Datavized Technologies](https://datavized.com) with support from [Google News Initiative](https://newsinitiative.withgoogle.com).
 
 ## What is it for?
 
@@ -26,7 +26,7 @@ TwoTone is a fun and intuitive way to make your own compositions without any pri
 
 	<div class="tile">
 		<h2 class="post-title">Developed by</h2>
-		<p class="post-excerpt">TwoTone is made by <a href="https://datavized.com">Datavized Technologies</a> with Support from <a href="https://newsinitiative.withgoogle.com">Google News Initiative</a>.</p>
+		<p class="post-excerpt">TwoTone is made by <a href="https://datavized.com">Datavized Technologies</a> with support from <a href="https://newsinitiative.withgoogle.com">Google News Initiative</a>.</p>
 	</div><!-- /.tile -->
 
 	<div class="tile">
