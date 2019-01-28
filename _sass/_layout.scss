@@ -120,7 +120,14 @@
 /* Bottom menu navigation */
 
 .bottom-menu {
-	@include clearfix;
+	// @include clearfix;
+	display: flex;
+	justify-content: space-between;
+
+	.social {
+		font-size: 1.2rem;
+	}
+
 	font-weight: 700;
 	a {
 		color: lighten($black,60);

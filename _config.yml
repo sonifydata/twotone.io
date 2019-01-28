@@ -43,7 +43,10 @@ defaults:
 owner:
   name: Datavized
   email: contact@datavized.com
-  twitter: datavized
+  social:
+    twitter: datavized
+    facebook: datavized
+    instagram: datavized
   google:
     ad-client:
     ad-slot:

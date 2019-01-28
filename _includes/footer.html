@@ -10,6 +10,11 @@
 			<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 		{% endfor %}
 		</ul>
+		<ul class="menu-item">
+			{% for platform in site.owner.social %}
+			<li class="social"><a class="{{ platform[0] }}" href="https://{{ platform[0] }}.com/{{ platform[1] }}" target="_blank"><i class="fa fa-{{ platform[0] }}" aria-hidden="true"></i></a></li>
+			{% endfor %}
+		</ul>
 	</nav><!-- /.bottom-menu -->
 	<p class="copyright">&#169; {{ site.time | date: '%Y' }} <a href="{{ site.company-url | default: site.url }}">{{ site.company | default: site.title }}</a>
 </footer>
