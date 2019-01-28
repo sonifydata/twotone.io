@@ -3,12 +3,12 @@ layout: home
 permalink: /
 excerpt: An open-source web tool for generating music from data
 image:
-  feature: /images/TwoTone-background.png
+  background: /images/TwoTone-background.png
 ---
 <!--
 ## Developed by
 
-TwoTone is made by [Datavized Technologies](https://datavized.com) with support from [Google News Initiative](https://newsinitiative.withgoogle.com).
+TwoTone is imagined and made by [Datavized Technologies](https://datavized.com) with support from [Google News Initiative](https://newsinitiative.withgoogle.com). We hope you like it.
 
 ## What is it for?
 
@@ -26,7 +26,7 @@ TwoTone is a fun and intuitive way to make your own compositions without any pri
 
 	<div class="tile">
 		<h2 class="post-title">Developed by</h2>
-		<p class="post-excerpt">TwoTone is made by <a href="https://datavized.com">Datavized Technologies</a> with support from <a href="https://newsinitiative.withgoogle.com">Google News Initiative</a>.</p>
+		<p class="post-excerpt">TwoTone is imagined and made by <a href="https://datavized.com">Datavized Technologies</a> with support from <a href="https://newsinitiative.withgoogle.com">Google News Initiative</a>. We hope you like it.</p>
 	</div><!-- /.tile -->
 
 	<div class="tile">
