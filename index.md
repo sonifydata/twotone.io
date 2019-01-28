@@ -15,7 +15,7 @@ TwoTone can be used for understanding data through listening or for making music
 
 ## Data
 
-Just like in the cinema, sounds add another layer to understanding. It can be used by itself or as a layer for a visual piece.
+TwoTone can be used by itself or in tandem with visualization. Just like in the cinema, sounds add another layer to understanding.
 
 ## Music
 
@@ -35,7 +35,7 @@ TwoTone is a fun and intuitive way to make your own compositions without any pri
 
 	<div class="tile">
 		<h2 class="post-title">Data</h2>
-		<p class="post-excerpt">Just like in the cinema, sounds add another layer to understanding. It can be used by itself or as a layer for a visual piece.</p>
+		<p class="post-excerpt">TwoTone can be used by itself or in tandem with visualization. Just like in the cinema, sounds add another layer to understanding.</p>
 	</div><!-- /.tile -->
 
 	<div class="tile">
