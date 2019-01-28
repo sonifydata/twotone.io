@@ -1,6 +1,6 @@
 <header id="masthead">
   <div class="inner-wrap">
-    <a href="{{ site.url }}/" class="site-title">{{ site.title }}</a>
+    <a href="{{ site.url }}/" class="site-title">{% if site.logo %}<img src="{{ site.url }}/{{ site.logo }}" alt=""/>{% endif %}{{ site.title }}</a>
     <nav role="navigation" class="menu top-menu">
         {% include navigation.html %}
     </nav>
