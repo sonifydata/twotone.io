@@ -12,7 +12,7 @@
 		</ul>
 		<ul class="menu-item">
 			{% for platform in site.owner.social %}
-			<li class="social"><a class="{{ platform[0] }}" href="https://{{ platform[0] }}.com/{{ platform[1] }}" target="_blank"><i class="fa fa-{{ platform[0] }}" aria-hidden="true"></i></a></li>
+			<li class="social"><a class="{{ platform[0] }}" href="https://{{ platform[0] }}.com/{{ platform[1] }}" target="_blank" rel="noopener" aria-label="{{ site.owner.name }} on {{ platform[0] | capitalize }}"><i class="fa fa-{{ platform[0] }}" aria-hidden="true"></i></a></li>
 			{% endfor %}
 		</ul>
 	</nav><!-- /.bottom-menu -->
