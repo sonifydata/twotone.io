@@ -283,6 +283,25 @@
 			@include font-size(32);
 		}
 	}
+
+	.logos {
+		display: flex;
+		justify-content: center;
+		align-items: flex-end;
+		flex-direction: row;
+
+		* {
+			margin: 0 0.5em;
+		}
+
+		*:first-child {
+			margin-left: 0;
+		}
+
+		*:last-child {
+			margin-right: 0;
+		}
+	}
 }
 // page header
 .page-feature {
