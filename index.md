@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: /
+excerpt: An open-source web tool for generating sound from data
 image:
   feature: /images/TwoTone-background.png
 ---
