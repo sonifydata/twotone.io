@@ -2,7 +2,7 @@
 
 title: "TwoTone"
 description: An open-source web tool for generating sound from data
-logo: two-tone-logo.svg # 120x120 px default image used for Twitter summary card
+logo: /images/two-tone-logo.svg # 120x120 px default image used for Twitter summary card
 teaser: /images/400x250-placeholder.gif # 400x250 px default teaser image used in image archive grid
 locale: en
 timezone: America/New_York
