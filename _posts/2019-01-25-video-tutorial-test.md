@@ -13,7 +13,7 @@ image:
 layout: article
 
 ---
-Watch this short video to learn about TwoTone’s text-to-speech feature.
+Watch this short video to learn about TwoTone's text-to-speech feature.
 
 Enter a title to automatically generate text-to-speech, google to turn speech on or off. Customize settings for language gender and voice options.
 
