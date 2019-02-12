@@ -1,12 +1,15 @@
 ---
 layout: article
 title: "'Song of the Day' Basque Country EUSTAT"
-date: 2019-02-12 00:00:00 -0500
+date: 2019-02-12 15:02:00 -0500
 modified: ''
 categories: []
 excerpt: "'Song of the Day' Basque Country EUSTAT "
 tags:
 - open data
+image:
+  feature: "/images/basque-feature-1600x800.png"
+  teaser: "/images/basque-feature-400x250.png"
 
 ---
 Datavized collaborated with Basque Country EUSTAT to create a sonification with TwoTone using Basque Country EUSTAT 'Use of Time' data. More details soon.
