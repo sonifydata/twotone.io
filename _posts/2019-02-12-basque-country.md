@@ -7,8 +7,8 @@ categories:
 - tutorials
 excerpt: 'Song of the Day - Basque Country EUSTAT  '
 tags:
-- 'videos '
-- tutorials
+- video
+- tutorial
 
 ---
 Watch this short video to learn about how to make the 'Song of the Day'  made with TwoTone's City data partner Basque Country EUSTAT.  
