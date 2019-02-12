@@ -5,10 +5,11 @@ date: 2019-02-12 00:00:00 -0500
 modified: ''
 categories: []
 excerpt: "'Song of the Day' Basque Country EUSTAT "
-tags: []
+tags:
+- open data
 
 ---
-Datavized collaborated with Basque Country EUSTAT to create a sonification using Basque Country EUSTAT 'Use of Time' data. 
+Datavized collaborated with Basque Country EUSTAT to create a sonification with TwoTone using Basque Country EUSTAT 'Use of Time' data. More details soon.
 
 http://en.eustat.eus/estadisticas/tema_173/opt_0/tipo_1/ti_Use_of_time/temas.html
 
