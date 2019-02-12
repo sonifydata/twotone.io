@@ -17,4 +17,8 @@ To replicate the project, download the 'Use of Time' dataset here.
 
 <iframe width="560" height="315" src="[https://youtu.be/2dQMSMRWwJI](https://youtu.be/2dQMSMRWwJI "https://youtu.be/2dQMSMRWwJI")" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
- 
+Watch this short video to learn about TwoTone's text-to-speech feature.
+
+Enter a title to automatically generate text-to-speech, google to turn speech on or off. Customize settings for language gender and voice options.
+
+<iframe width="560" height="315" src="[https://youtu.be/2dQMSMRWwJI](https://youtu.be/2dQMSMRWwJI "https://youtu.be/2dQMSMRWwJI")" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
