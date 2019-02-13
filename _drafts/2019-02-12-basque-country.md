@@ -9,10 +9,14 @@ excerpt: 'Song of the Day - Basque Country EUSTAT  '
 tags:
 - video
 - tutorial
+image:
+  feature: ''
+  teaser: ''
+  credit: ''
 
 ---
-Watch this short video to learn about how to make the 'Song of the Day'  made with TwoTone's City data partner Basque Country EUSTAT.
+Watch this short video to learn about how to make the 'Song of the Day' made with TwoTone's City data partner Basque Country EUSTAT.
 
 To replicate the project, download the 'Use of Time' dataset here.
 
-<iframe width="560" height="315" src="[https://youtu.be/2dQMSMRWwJI](https://youtu.be/2dQMSMRWwJI "https://youtu.be/2dQMSMRWwJI")" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2dQMSMRWwJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
