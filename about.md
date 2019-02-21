@@ -12,8 +12,6 @@ share: false
 ads: false
 
 ---
-{% include toc.html %}
-
 **TwoTone** lets you make music from data. It's free and open source and runs 100% on the web, so you don't need to download anything. TwoTone works on desktops, tablets and phones*. It's designed to be fast, fun and easy to use. TwoTone is imagined and made by Datavized Technologies with support from Google News Initiative.
 
 You can get started at [app.twotone.io](//app.twotone.io "app.twotone.io") + or view it on [github](https://github.com/datavized/twotone "TwoTone").
