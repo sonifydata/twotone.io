@@ -1,20 +1,20 @@
 ---
 title: Video Tutorial Test
 date: 2019-01-25 22:03:43 +0000
-modified: 
-categories: tutorials
+modified: ''
+categories:
+- tutorials
 excerpt: An introduction to TwoTone
 tags:
 - video
 - tutorial
 image:
-  feature: 
-  teaser: 
+  feature: ''
+  teaser: ''
+  credit: ''
 layout: article
 
 ---
-Watch this short video to learn about TwoTone's text-to-speech feature.
+Watch this short video to learn how to replicate and remix the Basque Country EUSTAT 'Use of Time' data sonification.
 
-Enter a title to automatically generate text-to-speech, google to turn speech on or off. Customize settings for language gender and voice options.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KXmF-05HAKk" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/2dQMSMRWwJI" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
