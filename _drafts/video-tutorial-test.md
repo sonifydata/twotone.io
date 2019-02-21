@@ -4,7 +4,7 @@ date: 2019-01-25 22:03:43 +0000
 modified: ''
 categories:
 - tutorials
-excerpt: An introduction to TwoTone
+excerpt: Learn how to sonify 'Use of Time' data
 tags:
 - video
 - tutorial
