@@ -46,4 +46,4 @@ To replicate or remix the project, download the 'Use of Time' data set [here](ht
 
 ## Watch the Tutorial
 
-To watch the full tutorial on the making of the sonification, click [here] (https://twotone.io/tutorials/basque-country/). 
+To watch the full tutorial on the making of the sonification, click [here](https://twotone.io/tutorials/basque-country/).
