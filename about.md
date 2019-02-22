@@ -28,8 +28,10 @@ There are two areas where TwoTone adds value:
 
 1. **Understanding Data**
 2. **Making Music**
-3. Music is math. TwoTone uses a technique called "sonification". This just means that it turns data into sound. We didn't invent this concept, it's been around for a while already. Our intention is to make it more accessible as a web app. If understanding the data is your goal, you may want to keep things simple and resist the urge to make too many layers or add too many effects.
-4. Get creative. TwoTone is a fun and intuitive way to make your own compositions, without any prior musical or technical knowledge. The algorithm makes an audio track from one column of your data automatically and you can change the instrument, add more columns, and experiment from there until you have made something that interests you. Music you make can be exported for use in creative projects.
+
+1. Music is math. TwoTone uses a technique called "sonification". This just means that it turns data into sound. We didn't invent this concept, it's been around for a while already. Our intention is to make it more accessible as a web app. If understanding the data is your goal, you may want to keep things simple and resist the urge to make too many layers or add too many effects.
+
+2. Get creative. TwoTone is a fun and intuitive way to make your own compositions, without any prior musical or technical knowledge. The algorithm makes an audio track from one column of your data automatically and you can change the instrument, add more columns, and experiment from there until you have made something that interests you. Music you make can be exported for use in creative projects.
 
 ## Advantages
 
