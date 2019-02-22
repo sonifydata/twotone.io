@@ -49,6 +49,8 @@ The data uploaded to TwoTone is processed fully in the web browser: no server-si
 
 Organizations like the United Nations have a lot of publicly available data as well as most large cities: for example, try the the [NYC Open Data portal](https://opendata.cityofnewyork.us/data/). You can search these listings, and if you find something you like make sure the size works or edit it down if needed. 
 
+TwoTone also has some sample data sets built in to help get you started.
+
 ### How can your organization benefit from using TwoTone?
 
 TwoTone is designed to be seamlessly integrated into the workflow of a newsroom and used either as a standalone tool for publishing sonification on the web or as a soundtrack builder for multimedia projects. The tool is customizable to enable creators to map any data input to the desired audio output.
@@ -56,3 +58,10 @@ TwoTone is designed to be seamlessly integrated into the workflow of a newsroom 
 ### How does Text-to-Speech work?
 
 Twotone uses Google’s Text-To-Speech API so that a creator can type a title for their piece and have it read in a male or female voice in different languages. This audio is placed before the music starts to give context to the listener. You can turn it on or off. Technically, this means that Twotone can’t really be described purely as 'sonification' since that word refers to "the use of non-speech audio to convey information or perceptualize data".
+
+## Feedback
+
+Have a question, issue with the app or feedback to help make TwoTone better?
+- Submit our [feedback form](https://docs.google.com/forms/d/1FUTwQ8fe15BTsSyOy3roWhKgWgN7c1I4dTzJR3ZBTu4/edit)
+- File an [issue on GitHub](https://github.com/datavized/twotone/issues)
+- or email us at [contact@datavized.com](mailto:contact@datavized.com)
