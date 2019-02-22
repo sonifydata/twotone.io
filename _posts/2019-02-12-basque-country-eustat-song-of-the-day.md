@@ -9,8 +9,8 @@ excerpt: 'UN U.S. Cities Index '
 tags:
 - open data
 image:
-  feature: "/images/basque-feature-1600x800.png"
-  teaser: "/images/basque-feature-400x250.png"
+  feature: "/images/un-citiesindex.png"
+  teaser: "/images/un-citiesindex-feature.png"
   credit: ''
 
 ---
