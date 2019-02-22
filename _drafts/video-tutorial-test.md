@@ -1,15 +1,17 @@
 ---
-title: Video Tutorial Test
+title: TwoTone Teaser
 date: 2019-01-25 22:03:43 +0000
-modified: 
-categories: tutorials
+modified: ''
+categories:
+- tutorials
 excerpt: An introduction to TwoTone
 tags:
 - video
 - tutorial
 image:
-  feature: 
-  teaser: 
+  feature: ''
+  teaser: ''
+  credit: ''
 layout: article
 
 ---
