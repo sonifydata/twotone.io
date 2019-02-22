@@ -24,14 +24,10 @@ Datavized collaborated with Basque Country EUSTAT to create a sonification with 
 
 ## Listen to the Data
 
-# Version 1
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/575450994%3Fsecret_token%3Ds-8Qmb5&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 
 ## Watch the Playthrough
-
-# Version 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-_MZHNWBOsk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
