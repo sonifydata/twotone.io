@@ -10,6 +10,7 @@ image:
   thumb: 
 share: false
 ads: false
+published: false
 
 ---
 
