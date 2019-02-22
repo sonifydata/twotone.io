@@ -52,7 +52,7 @@ owner:
     ad-client:
     ad-slot:
   bio:
-  avatar: /images/bio-photo.jpg # 160x160 px image for author byline
+  avatar: /images/datavized-logo-square-blue.svg # 160x160 px image for author byline
   disqus-shortname:
 
 
