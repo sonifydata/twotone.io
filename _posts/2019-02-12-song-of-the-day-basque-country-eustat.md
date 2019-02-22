@@ -14,7 +14,7 @@ image:
   credit: ''
 
 ---
-Datavized collaborated with Basque Country EUSTAT to create a sonification with TwoTone using Basque Country EUSTAT 'Use of Time' data. 
+Datavized collaborated with Basque Country EUSTAT to create a sonification with TwoTone using Basque Country EUSTAT 'Use of Time' data.
 
 ## About the Data
 
@@ -25,17 +25,15 @@ Datavized collaborated with Basque Country EUSTAT to create a sonification with 
 ## Listen to the Data
 
 # Version 1
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/575450994%3Fsecret_token%3Ds-8Qmb5&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-# Version 2
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tl7xCO6eINU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Watch the Playthrough
 
 # Version 1
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-_MZHNWBOsk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Version 2
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-_MZHNWBOsk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Remix the Project
@@ -46,4 +44,4 @@ To replicate or remix the project, download the 'Use of Time' data set [here](ht
 
 ## Watch the Tutorial
 
-To watch the full tutorial on the making of the sonification, click [here](https://twotone.io/tutorials/basque-country/).
+To watch the full tutorial on the making of the sonification, click [here.](https://twotone.io/tutorials/basque-country/ "Basque Country EUSTAT 'Use of Time' TwoTone Tutorial")
