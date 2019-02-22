@@ -3,7 +3,8 @@ layout: article
 title: "'Song of the Day' Basque Country EUSTAT"
 date: 2019-02-12 20:02:00 +0000
 modified: ''
-categories: []
+categories:
+- examples
 excerpt: "'Song of the Day' Basque Country EUSTAT "
 tags:
 - open data
