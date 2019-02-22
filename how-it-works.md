@@ -12,46 +12,14 @@ image:
 share: false
 
 ---
-Follow these simple steps to get started with TwoTone.
+
+You can use [app.twotone.io](//app.twotone.io "app.twotone.io") + or view the source code on [github](https://github.com/datavized/twotone "TwoTone").
 
 {% include toc.html %}
 
-TwoTone lets you make music from data. It's free and open source and runs 100% on the web, so you don't need to download anything. TwoTone works on desktops, tablets and phones. It's designed to be fast, fun and easy to use. TwoTone has been developed by Datavized Technologies with support from Google News Initiative.
+## Getting Started
 
-You can get started at [app.twotone.io](//app.twotone.io "app.twotone.io") + or view it on [github](https://github.com/datavized/twotone "TwoTone").
-
-This is the second tool in Datavized's collaboration with Google. The first, [Morph](https://morph.graphics/ "Morph"), lets you make art from data. [Get it here](https://app.morph.graphics/ "Morph").
-
-## What is TwoTone for?
-
-There are two areas where TwoTone adds value:
-
-1. Understanding Data
-
-Music is math. TwoTone uses a technique called "sonification". This just means that it turns data into sound. We didn't invent this concept, it's been around for a while already. Our intention is to make it more accessible as a web app. If understanding the data is your goal, you may want to keep things simple and resist the urge to make too many layers or add too many effects.
-
-1. Making Music
-
-Get creative. TwoTone is a fun and intuitive way to make your own compositions, without any prior musical or technical knowledge. The algorithm makes an audio track from one column of your data automatically and you can change the instrument, add more columns, and experiment from there until you have made something that interests you. Music you make can be exported for use in a project or shared by itself to social media.
-
-## Advantages
-
-1. **Data**  - Turning data into sound has advantages. Just like in the cinema, sound adds another layer to understanding. Sound does not require you to look at a screen. You could be anywhere in a room and hear the differences in the output. It can be used by itself or as a complement to visual systems. The representation of the data is as “true” as a visual rendering and any anomalies can be heard, identified and acted upon. It also has potential uses for people who are visually impaired.
-2. **Music** - Being able to make your own music is empowering. Here at the Datavized office, we're listening to things we've made ourselves and they sound pretty good. Good enough to be used as background music for a podcast or video or whatever else could be made more interesting with an original soundtrack. It's great to add a new thing to your skill set. And talented musicians and composers who have used it love it too because it adds a randomness that sparks new ideas.
-
-## What kind of data can I use?
-
-There is no limit to the kind of data that can be uploaded but remember that your output will only be as good as your input, so please take time to check your spreadsheet for errors.
-
-The data uploaded to TwoTone is processed fully in the web browser: no server-side operations or storage is performed.
-
-## How can your organization benefit from using TwoTone?
-
-TwoTone is designed to be seamlessly integrated into the workflow of a newsroom and used either as a standalone tool for publishing sonification on the web or as a soundtrack builder for multimedia projects.
-
-The tool is fully customizable to enable creators to map any data input to the desired audio output.
-
-## How does it work?
+Follow these simple steps to get started with TwoTone.
 
 1. **Audio Track** - TwoTone will automatically generate an audio track from your data set. You can change your track's data source or instrument.
 2. **Play Audio** - Click the Play button to hear the sound generated from your data.
@@ -60,3 +28,31 @@ The tool is fully customizable to enable creators to map any data input to the d
 5. **Adjust Duration** - Adjust your total duration, row duration, and tempo (BPM) to speed up or slow down your composition.
 6. **Advanced Features** - Adjust the volume of your audio track, filter it by data columns or by value, change the key of your musical scale, or adjust octave, scale range and tempo to create an arpeggio.
 7. **Export Audio** - Export your project to an audio file in MP3 or Waveform (PCM) format. MP3 Bit Rate export options are 64 kbps, 128 kbps,, 192 kbps, and 320 kbps.
+
+There is also a guided tour built into the web app.
+
+## Frequently Asked Questions
+
+### What devices does TwoTone run on?
+
+If you want to export your music using an Apple device, please use a Desktop or Laptop computer. TwoTone works on mobile on Android. Due to restrictions with Safari, iOS users can make and listen to their compositions but can't export them to their device. If this changes in the future we will enable the feature.
+
+### What kind of data can I use?
+
+TwoTone will accept spreadsheet files up to 20MB in size and 2,000 rows of data. Formats supported are: .xls, .xlsx, .csv, .ods. Drag and drop files into the browser window. Remember that your output will only be as good as your input, so please take time to check your spreadsheet for errors or unnecessary text fields. Also make sure that you are uploading an actual spreadsheet and not a PDF since a PDF will not be readable.
+
+### Does TwoTone store my data?
+
+The data uploaded to TwoTone is processed fully in the web browser: no server-side operations or storage is performed. 
+
+### Where do I find data online?
+
+Organizations like the United Nations have a lot of publicly available data as well as most large cities: for example, try the the [NYC Open Data portal](https://opendata.cityofnewyork.us/data/). You can search these listings, and if you find something you like make sure the size works or edit it down if needed. 
+
+### How can your organization benefit from using TwoTone?
+
+TwoTone is designed to be seamlessly integrated into the workflow of a newsroom and used either as a standalone tool for publishing sonification on the web or as a soundtrack builder for multimedia projects. The tool is customizable to enable creators to map any data input to the desired audio output.
+
+### How does Text-to-Speech work?
+
+Twotone uses Google’s Text-To-Speech API so that a creator can type a title for their piece and have it read in a male or female voice in different languages. This audio is placed before the music starts to give context to the listener. You can turn it on or off. Technically, this means that Twotone can’t really be described purely as 'sonification' since that word refers to "the use of non-speech audio to convey information or perceptualize data".
