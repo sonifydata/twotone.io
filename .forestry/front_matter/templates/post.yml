@@ -53,7 +53,7 @@ fields:
   label: Layout
   default: article
 pages:
+- _posts/2019-02-12-song-of-the-day-basque-country-eustat.md
+- _posts/2019-02-12-basque-country.md
 - _posts/2019-01-25-video-tutorial-test.md
 - _posts/test-blog-post.md
-- _posts/2019-02-12-basque-country.md
-- _posts/2019-02-12-song-of-the-day-basque-country-eustat.md
