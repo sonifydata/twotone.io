@@ -9,8 +9,8 @@ excerpt: 'UN U.S. Cities Index '
 tags:
 - open data
 image:
-  feature: "/images/un-citiesindex.png"
-  teaser: "/images/un-citiesindex-feature.png"
+  feature: "/images/un-citiesindex-feature.png"
+  teaser: "/images/uncitiesindex-teaser.png"
   credit: ''
 
 ---
