@@ -9,8 +9,8 @@ tags:
 - examples
 - videos
 image:
-  feature: ''
-  teaser: ''
+  feature: "/images/marsweather-feature.jpg"
+  teaser: "/images/marsweather-teaser.jpg"
   credit: ''
 
 ---
