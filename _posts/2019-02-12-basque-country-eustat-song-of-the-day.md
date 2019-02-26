@@ -24,6 +24,14 @@ Datavized sonfied the UN Sustainable Development Solutions Network's first U.S. 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/562982358&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
+### An example using the arpeggio feature
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/581764176%3Fsecret_token%3Ds-Sq1Fg&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### An example using adjusting the track duration, master tempo (BPM)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/581764650%3Fsecret_token%3Ds-eVSoK&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 ## Watch the Playthrough
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Iafs6t6pu7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
