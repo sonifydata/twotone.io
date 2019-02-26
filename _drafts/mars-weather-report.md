@@ -11,7 +11,7 @@ tags:
 image:
   feature: "/images/marsweather-feature.jpg"
   teaser: "/images/marsweather-teaser.jpg"
-  credit: ''
+  credit: NASA.gov
 
 ---
 ### Listen to the Data
