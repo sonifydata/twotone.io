@@ -14,12 +14,11 @@ image:
   credit: ''
 
 ---
-Datavized sonfied the UN Sustainable Development Solutions Network's first U.S. Cities SDG Index. 
+Datavized sonfied the UN Sustainable Development Solutions Network's first U.S. Cities SDG Index.
 
 ## About the Data
 
 [UN U.S. Cities SDG Index](http://unsdsn.org/resources/publications/us-cities-sdg-index/ "UN U.S. Cities SDG Index")
-
 
 ## Listen to the Data
 
@@ -30,5 +29,5 @@ Datavized sonfied the UN Sustainable Development Solutions Network's first U.S. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Iafs6t6pu7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Remix the Project
- 
-To replicate or remix the project, download the 'Use of Time' data set [here](https://drive.google.com/open?id=1Ucon5Hb8DoWeOOQPv8BFzUrTT3vgBI17") or go to the source link [here](http://unsdsn.org/resources/publications/us-cities-sdg-index/).
+
+To replicate or remix the project, download the 'U.S. Cities Index 2017' data set [here](https://drive.google.com/file/d/1NvxNo3IR3LKXUMi0xDv9imU-dZn75cj1/view "U.S. Cities Index 2017"), using the first spreadsheet labeled 'Index' or go to the source link [here](http://unsdsn.org/resources/publications/us-cities-sdg-index/ "U.S. Cities Index 2017").
