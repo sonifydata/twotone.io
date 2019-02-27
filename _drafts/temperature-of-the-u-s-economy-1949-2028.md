@@ -1,11 +1,11 @@
 ---
 layout: article
-title: Temperature of the U.S. Economy 1949-2028
+title: TwoTone Trailer
 date: 2019-02-26 08:00:00 -0500
 modified: ''
 categories:
 - examples
-excerpt: A data sonifiction of U.S. Debt to GDP Ratio yearly from 1949-2028.
+excerpt: TwoTone is launching March 5, 2019
 tags:
 - video
 - examples
