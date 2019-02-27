@@ -1,6 +1,6 @@
 ---
 title: TwoTone Trailer
-date: 2019-01-25 22:03:43 +0000
+date: 2019-01-25 17:03:43 -0500
 modified: ''
 categories:
 - 'examples '
