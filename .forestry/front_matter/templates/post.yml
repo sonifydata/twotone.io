@@ -53,6 +53,7 @@ fields:
   label: Layout
   default: article
 pages:
+- _posts/temperature-of-the-u-s-economy-1949-2028.md
 - _posts/2019-01-25-video-tutorial-test.md
 - _posts/2019-02-26-mars-weather-report.md
 - _posts/2019-02-26-temperature-of-the-u-s-economy-1949-2028.md
