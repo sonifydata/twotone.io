@@ -3,7 +3,8 @@ layout: article
 title: 'Mars Weather Report '
 date: 2019-02-26 08:00:00 -0500
 modified: ''
-categories: []
+categories:
+- examples
 excerpt: A data sonification of Mars Daily Temperature Feb 14-20, 2019
 tags:
 - examples
