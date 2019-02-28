@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Basque Country EUSTAT Tutorial
-date: 2019-02-12 13:00:00 +0000
+date: 2019-02-25 08:00:00 -0500
 modified: ''
 categories:
 - tutorials
