@@ -1,7 +1,7 @@
 ---
 layout: article
-title: 'Mars Weather Report'
-date: 2019-02-26 08:00:00 -0500
+title: Mars Weather Report
+date: 2019-02-26 13:00:00 +0000
 modified: ''
 categories:
 - examples
@@ -11,7 +11,7 @@ tags:
 - videos
 image:
   feature: "/images/marsweather-feature.jpg"
-  teaser: "/images/marsweather-teaser.jpg"
+  teaser: "/images/marsweatherteaser.jpg"
   credit: NASA.gov
 
 ---
