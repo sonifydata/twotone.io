@@ -35,4 +35,4 @@ Download the data set [here](https://drive.google.com/open?id=1QXPuaX6iEGIuho4Ds
 
 ### Table Preview
 
-<iframe width="950px" title="NYC Wi-Fi Hotspot Locations" height="808px" src="https://data.cityofnewyork.us/w/yjub-udmw/25te-f2tw?cur=uwRChh7vcl2&from=root" frameborder="0"scrolling="no"><a href="https://data.cityofnewyork.us/City-Government/NYC-Wi-Fi-Hotspot-Locations/yjub-udmw" title="NYC Wi-Fi Hotspot Locations" target="_blank">NYC Wi-Fi Hotspot Locations</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p>
+<div><iframe width="950px" title="NYC Wi-Fi Hotspot Locations" height="808px" src="https://data.cityofnewyork.us/w/yjub-udmw/25te-f2tw?cur=uwRChh7vcl2&from=root" frameborder="0"scrolling="no"><a href="https://data.cityofnewyork.us/City-Government/NYC-Wi-Fi-Hotspot-Locations/yjub-udmw" title="NYC Wi-Fi Hotspot Locations" target="_blank">NYC Wi-Fi Hotspot Locations</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
