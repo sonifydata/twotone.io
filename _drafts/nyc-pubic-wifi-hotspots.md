@@ -1,6 +1,6 @@
 ---
 layout: article
-title: NYC Art Survey Data
+title: NYC Public Wi-Fi Hotspots
 date: 2019-02-28 13:00:00 +0000
 modified: ''
 categories:
@@ -19,11 +19,11 @@ image:
 
 #### Version 1
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/579081762&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/580770960&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 #### Version 2
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/579081780&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/580963137&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ### Listen to the TwoTone Electronica Playlist
 
@@ -31,7 +31,7 @@ image:
 
 ### Remix the Project
 
-Download the data set [here](https://drive.google.com/open?id=149QhvDnUNS1FnhU7g8Ir8UxFALvV6Z1C "NYC Art Survey Data"), or explore the latest daily weather data from NYC Open Data [here](). Or preview and download data from the table preview below.
+Download the data set [here](https://drive.google.com/open?id=1QXPuaX6iEGIuho4Dsu4sPqELgGLI3vJD "NYC Public Wi-Fi Hotspots"), or explore the latest daily weather data from NYC Open Data [here](https://data.cityofnewyork.us/City-Government/NYC-Wi-Fi-Hotspot-Locations/yjub-udmw/data "NYC Free Public Wi-Fi"). Or preview and download data from the table preview below.
 
 ### Table Preview
 
