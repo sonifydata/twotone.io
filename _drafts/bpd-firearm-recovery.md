@@ -23,7 +23,6 @@ This dataset from Analyze Boston provides daily counts of firearms recovered by 
 
 ### Watch the Playthrough
 
-
 ### Remix the Project
 
-Download the data set [here](https://drive.google.com/open?id=1SjA93bPlhfc3t4yxEo9RTKG5OYB4tn9G "NYC 311 Call Center Inquiry "), or explore the latest daily weather data from NYC Open Data [here](https://data.cityofnewyork.us/City-Government/311-Call-Center-Inquiry/tdd6-3ysr "NYC Open Data").
+Download the data set [here](https://drive.google.com/open?id=1uoQhVh5-c2jlOt92V57EBA0lxhEfTwhv "Analyze Boston - BPD Firearm Recovery Counts "), or explore the latest daily weather data from NYC Open Data [here](https://data.boston.gov/dataset/boston-police-department-firearms-recovery-counts "Analyze Boston - BPD Firearm Recovery Counts").
