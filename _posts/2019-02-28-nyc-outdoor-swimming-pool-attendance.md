@@ -11,7 +11,7 @@ tags:
 - videos
 image:
   feature: "/images/nyc-outdoorswimmingattendance-feature.png"
-  teaser: "/images/nyc-outdoorswimmingattendance-teaser.png"
+  teaser: "/images/nyc-outdoorpooldata-teaser.png"
   credit: data.cityofnewyork.us
 
 ---
