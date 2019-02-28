@@ -31,5 +31,4 @@ Download the data set [here](https://drive.google.com/open?id=1SjA93bPlhfc3t4yxE
 
 ### Table Preview
 
-<div><iframe width="950px" title="311 Call Center Inquiry" height="808px" src="https://data.cityofnewyork.us/w/wewp-mm3p/25te-f2tw?cur=6pkVcI5LoM2&from=root" frameborder="0"scrolling="no"><a href="https://data.cityofnewyork.us/City-Government/311-Call-Center-Inquiry/wewp-mm3p" title="311 Call Center Inquiry" target="_blank">311 Call Center Inquiry</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
-    
+<iframe width="100%" height="560" title="311 Call Center Inquiry" src="https://data.cityofnewyork.us/w/wewp-mm3p/25te-f2tw?cur=6pkVcI5LoM2&from=root" frameborder="0" scrolling="no"><a href="https://data.cityofnewyork.us/City-Government/311-Call-Center-Inquiry/wewp-mm3p" title="311 Call Center Inquiry" target="_blank">311 Call Center Inquiry</a></iframe>
