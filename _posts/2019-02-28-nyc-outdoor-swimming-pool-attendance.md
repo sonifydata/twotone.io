@@ -1,7 +1,7 @@
 ---
 layout: article
 title: NYC Outdoor Swimming Pool Attendance
-date: 2019-02-28 13:00:00 +0000
+date: 2019-02-20 08:00:00 -0500
 modified: ''
 categories:
 - examples
