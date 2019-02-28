@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Mars Weather Report
-date: 2019-02-26 13:00:00 +0000
+date: 2019-02-27 08:00:00 -0500
 modified: ''
 categories:
 - examples
