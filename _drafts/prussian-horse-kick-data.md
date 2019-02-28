@@ -15,8 +15,7 @@ image:
   credit: NASA.gov
 
 ---
-http://www.randomservices.org/random/data/HorseKicks.html (Got to Data Sets > Prussian Horse Kick Data)  Description
-The data below give the number of soilders in the Prussian cavalry killed by horse kicks, by corp membership and by year. The years are from 1875 to 1894, and there are 14 different cavalry corps: the first column corresponds to the guard corp and the other columns to corps 1 through 11, 14, and 15.
+The data give the number of soldiers in the Prussian cavalry killed by horse kicks, by corp membership and by year. The years are from 1875 to 1894, and there are 14 different cavalry corps: the first column corresponds to the guard corp and the other columns to corps 1 through 11, 14, and 15.
 
 ### Listen to the Data
 
