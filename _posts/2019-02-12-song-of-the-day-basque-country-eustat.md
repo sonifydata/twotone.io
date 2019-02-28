@@ -10,7 +10,7 @@ tags:
 - open data
 image:
   feature: "/images/basque-feature-1600x800.png"
-  teaser: "/images/basque-feature-400x250.png"
+  teaser: "/images/basque-teaser.png"
   credit: ''
 
 ---
