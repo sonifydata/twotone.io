@@ -5,7 +5,7 @@ date: 2019-02-12 20:02:00 +0000
 modified: ''
 categories:
 - examples
-excerpt: "'Song of the Day' Basque Country EUSTAT "
+excerpt: "'Song of the Day' Basque Country EUSTAT"
 tags:
 - open data
 image:
