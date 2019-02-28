@@ -21,8 +21,8 @@ image:
 
 ### Watch the Playthrough
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kb01aOuhNJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OmOxJFlI-7A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Remix the Project
 
-Download the data set [here](https://drive.google.com/file/d/172dBHwedNmywVQdJxK7488ukF1FGTK3q/view "Mars Weather Report "), or explore the latest daily weather data from NASA's MarsInsight Mission Daily Weather site [here](https://mars.nasa.gov/insight/weather/ "NASA Mars Weather").
+Download the data set [here](https://drive.google.com/open?id=1jcm4SgiU8IADOerkdeNLKsYT0EEdM6OV "NYC 311 Call Center Inquiry "), or explore the latest daily weather data from NYC Open Data site [here](https://data.cityofnewyork.us/City-Government/311-Call-Center-Inquiry/tdd6-3ysr "NYC Open Data").
