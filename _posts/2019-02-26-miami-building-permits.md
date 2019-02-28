@@ -11,8 +11,8 @@ tags:
 - examples
 - videos
 image:
-  feature: "/images/marsweather-feature.jpg"
-  teaser: "/images/marsweatherteaser.jpg"
+  feature: "/images/cityofmiami-buildingpermits-feature.png"
+  teaser: "/images/cityofmiami-buildingpermits-teaser.png"
   credit: NASA.gov
 
 ---
