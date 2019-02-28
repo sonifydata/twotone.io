@@ -53,7 +53,7 @@ fields:
   label: Layout
   default: article
 pages:
-- _posts/bpd-firearm-recovery.md
+- _posts/2019-02-28-bpd-firearm-recovery.md
 - _posts/mars-weather-report.md
 - _posts/temperature-of-the-u-s-economy.md
 - _posts/2019-02-28-nyc-311-call-center.md
