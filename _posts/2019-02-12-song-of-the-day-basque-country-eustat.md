@@ -11,7 +11,7 @@ tags:
 image:
   feature: "/images/basque-feature-1600x800.png"
   teaser: "/images/basque-teaser.png"
-  credit: ''
+  credit: en.eustat.eus
 
 ---
 Datavized collaborated with Basque Country EUSTAT to create a sonification with TwoTone using Basque Country EUSTAT 'Use of Time' data.
