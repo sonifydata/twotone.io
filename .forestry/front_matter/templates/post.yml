@@ -53,7 +53,7 @@ fields:
   label: Layout
   default: article
 pages:
-- _posts/nyc-art-survey.md
+- _posts/2019-02-28-nyc-art-survey.md
 - _posts/bpd-firearm-recovery-counts-4.md
 - _posts/bpd-firearm-recovery-counts-3.md
 - _posts/bpd-firearm-recovery-counts-2.md
