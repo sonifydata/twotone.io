@@ -15,7 +15,7 @@ image:
   credit: data.cityofnewyork.us
 
 ---
-The 311 Call Center Inquiry dataset available on NYC Open Data contains information on all agent-handled calls to the City’s 311 information line, including date, time and topic. We filtered the data set in the data dashboard by Date to show only rows for February 1-10, 2019. We then exported the Rows as CSV (Excel). The file was quite large at 31.3 MB and 150,648 thousand rows of data from February 1, 2019 4:02:37 AM to February 10, 2019 1:00:37 AM. To adapt to TwoTone, we needed to minimize the file size and number of rows as TwoTone supports up to 2,000 rows of data and a maximum file size of 20MB. In Excel we filtered the data set by agencies with the most call volume by hour and sorted the data to show only the top ten agencies. We saved the cleaned data set and uploaded to TwoTone to sonify.  
+The 311 Call Center Inquiry dataset available on NYC Open Data contains information on all agent-handled calls to the City’s 311 information line, including date, time and topic. We filtered the data set in the data dashboard by Date to show only rows for February 1-10, 2019. We then exported the Rows as CSV (Excel). The file was quite large at 31.3 MB and 150,648 thousand rows of data from February 1, 2019 4:02:37 AM to February 10, 2019 1:00:37 AM. To adapt to TwoTone, we needed to minimize the file size and number of rows as TwoTone supports up to 2,000 rows of data and a maximum file size of 20MB. In Excel we filtered the data set by agencies with the most call volume by hour and sorted the data to show only the top ten agencies. We saved the cleaned data set and uploaded to TwoTone to sonify.
 
 ### Listen to the Data
 
@@ -28,3 +28,8 @@ The 311 Call Center Inquiry dataset available on NYC Open Data contains informat
 ### Remix the Project
 
 Download the data set [here](https://drive.google.com/open?id=1SjA93bPlhfc3t4yxEo9RTKG5OYB4tn9G "NYC 311 Call Center Inquiry "), or explore the latest daily weather data from NYC Open Data [here](https://data.cityofnewyork.us/City-Government/311-Call-Center-Inquiry/tdd6-3ysr "NYC Open Data").
+
+### Table Preview
+
+<div><iframe width="950px" title="311 Call Center Inquiry" height="808px" src="https://data.cityofnewyork.us/w/wewp-mm3p/25te-f2tw?cur=6pkVcI5LoM2&from=root" frameborder="0"scrolling="no"><a href="https://data.cityofnewyork.us/City-Government/311-Call-Center-Inquiry/wewp-mm3p" title="311 Call Center Inquiry" target="_blank">311 Call Center Inquiry</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
+    
