@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 'Mars Weather Report '
+title: 'Mars Weather Report'
 date: 2019-02-26 08:00:00 -0500
 modified: ''
 categories:
