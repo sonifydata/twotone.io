@@ -54,8 +54,6 @@ fields:
   default: article
 pages:
 - _posts/2019-02-28-nyc-art-survey.md
-- _posts/bpd-firearm-recovery-counts-4.md
-- _posts/bpd-firearm-recovery-counts-3.md
 - _posts/2019-01-27-test-blog-post.md
 - _posts/2019-02-28-nyc-311-call-center.md
 - _posts/2019-02-28-bpd-firearm-recovery.md
