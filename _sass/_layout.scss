@@ -304,15 +304,15 @@
 		flex-direction: row;
 		flex-wrap: wrap;
 
-		* {
+		& > :not(a), & > a > * {
 			margin: 0.5em;
 		}
 
-		*:first-child {
+		& > :not(a):first-child, & > a:first-child > * {
 			margin-left: 0;
 		}
 
-		*:last-child {
+		& > :not(a):last-child, & > a:last-child > * {
 			margin-right: 0;
 		}
 	}
