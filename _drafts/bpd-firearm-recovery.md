@@ -11,8 +11,8 @@ tags:
 - examples
 - videos
 image:
-  feature: "/images/nyc311callinquiry-feature.png"
-  teaser: "/images/nyc311callinquiry-teaser.png"
+  feature: "/images/BPD-firearmrecovery-feature.png"
+  teaser: "/images/bpd-firearmrecovery-teaser.png"
   credit: data.cityofnewyork.us
 
 ---
