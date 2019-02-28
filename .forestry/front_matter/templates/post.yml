@@ -53,6 +53,7 @@ fields:
   label: Layout
   default: article
 pages:
+- _posts/bpd-firearm-recovery-counts-3.md
 - _posts/bpd-firearm-recovery-counts-2.md
 - _posts/bpd-firearm-recovery-counts-1.md
 - _posts/bpd-firearm-recovery-counts.md
