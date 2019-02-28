@@ -26,8 +26,7 @@ image:
 
 ### Remix the Project
 
-Download the data set [here](https://drive.google.com/open?id=1BndiYrJf2V2oGt5pwguqj70KV0_NaApy "City of Miami Building Permits "), or explore the latest daily weather data from City of Miami: Open Data [here](https://data.miamigov.com/Government/Building-Permits-Issued-By-City-Of-Miami-From-2014/2wxc-e53n "City of Miami Building Permits ").
+Download the data set [here](https://drive.google.com/open?id=1BndiYrJf2V2oGt5pwguqj70KV0_NaApy "City of Miami Building Permits "), or explore the latest daily weather data from City of Miami: Open Data [here](https://data.miamigov.com/Government/Building-Permits-Issued-By-City-Of-Miami-From-2014/2wxc-e53n "City of Miami Building Permits "). Or use the table preview below.
 
-### Table Preview
-
-<iframe width="760px" title="Building Permits Issued By City Of Miami From 2014 To Present" height="646px" src="https://data.miamigov.com/w/2wxc-e53n/?cur=63xF9m-W7zj&from=root" frameborder="0"scrolling="no"><a href="https://data.miamigov.com/Government/Building-Permits-Issued-By-City-Of-Miami-From-2014/2wxc-e53n" title="Building Permits Issued By City Of Miami From 2014 To Present" target="_blank">Building Permits Issued By City Of Miami From 2014 To Present</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p>
+<iframe width="950px" title="Building Permits Issued By City Of Miami From 2014 To Present" height="808px" src="https://data.miamigov.com/w/2wxc-e53n/?cur=Mp_7f-FEla1&from=root" frameborder="0"scrolling="no"><a href="https://data.miamigov.com/Government/Building-Permits-Issued-By-City-Of-Miami-From-2014/2wxc-e53n" title="Building Permits Issued By City Of Miami From 2014 To Present" target="_blank">Building Permits Issued By City Of Miami From 2014 To Present</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p>
+    
