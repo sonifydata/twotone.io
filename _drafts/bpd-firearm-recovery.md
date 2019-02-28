@@ -5,7 +5,8 @@ date: 2019-02-28 08:00:00 -0500
 modified: ''
 categories:
 - examples
-excerpt: A data sonification of Mars Daily Temperature Feb 14-20, 2019
+excerpt: A data sonification of Boston Police Department firearm recovery counts since
+  August 20, 2014.
 tags:
 - examples
 - videos
@@ -25,4 +26,8 @@ This dataset from Analyze Boston provides daily counts of firearms recovered by 
 
 ### Remix the Project
 
-Download the data set [here](https://drive.google.com/open?id=1uoQhVh5-c2jlOt92V57EBA0lxhEfTwhv "Analyze Boston - BPD Firearm Recovery Counts "), or explore the latest daily weather data from NYC Open Data [here](https://data.boston.gov/dataset/boston-police-department-firearms-recovery-counts "Analyze Boston - BPD Firearm Recovery Counts").
+Download the data set [here](https://drive.google.com/open?id=1uoQhVh5-c2jlOt92V57EBA0lxhEfTwhv "Analyze Boston - BPD Firearm Recovery Counts "), or explore the latest daily weather data from Analyze Boston [here](https://data.boston.gov/dataset/boston-police-department-firearms-recovery-counts "Analyze Boston - BPD Firearm Recovery Counts").
+
+### Preview the Data
+
+<iframe width="700" height="400" src="https://data.boston.gov/dataset/boston-police-department-firearms-recovery-counts/resource/a3d2260f-8a41-4e95-9134-d14711b0f954/view/50f6dd71-ec18-463f-b65e-ec19ca72ea83" frameBorder="0"></iframe>
