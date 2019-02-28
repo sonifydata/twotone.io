@@ -1,11 +1,12 @@
 ---
 layout: article
-title: City of Miami Building Permits
+title: 'City of Miami Building Permits '
 date: 2019-02-26 13:00:00 +0000
 modified: ''
 categories:
 - examples
-excerpt: A data sonification of City of Miami Building Permits
+excerpt: A data sonification of Building Permits issued by City of Miami from 2014
+  to Present.
 tags:
 - examples
 - videos
@@ -25,7 +26,7 @@ image:
 
 ### Remix the Project
 
-Download the data set [here](https://drive.google.com/file/d/172dBHwedNmywVQdJxK7488ukF1FGTK3q/view "Mars Weather Report "), or explore the latest daily weather data from NASA's MarsInsight Mission Daily Weather site [here](https://data.miamigov.com/Government/Building-Permits-Issued-By-City-Of-Miami-From-2014/2wxc-e53n/data "City of Miami Building Permits ").
+Download the data set [here](https://drive.google.com/open?id=1BndiYrJf2V2oGt5pwguqj70KV0_NaApy "City of Miami Building Permits "), or explore the latest daily weather data from NASA's MarsInsight Mission Daily Weather site [here](https://data.miamigov.com/Government/Building-Permits-Issued-By-City-Of-Miami-From-2014/2wxc-e53n "City of Miami Building Permits ").
 
 ### Table Preview
 
