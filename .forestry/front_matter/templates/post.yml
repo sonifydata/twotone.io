@@ -53,11 +53,11 @@ fields:
   label: Layout
   default: article
 pages:
+- _posts/2019-02-28-bpd-firearm-recovery.md
 - _posts/2019-02-28-nyc-outdoor-swimming-pool-attendance.md
 - _posts/2019-02-28-nyc-pubic-wifi-hotspots.md
 - _posts/nyc-art-survey.md
 - _posts/2019-01-27-test-blog-post.md
 - _posts/2019-02-28-nyc-311-call-center.md
-- _posts/2019-02-28-bpd-firearm-recovery.md
 - _posts/2019-02-12-song-of-the-day-basque-country-eustat.md
 - _posts/2019-02-12-basque-country.md
