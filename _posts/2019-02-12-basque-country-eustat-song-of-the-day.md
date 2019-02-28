@@ -1,41 +1,43 @@
 ---
 layout: article
-title: 'UN U.S. Cities Index  '
+title: NYC 311 Call Center Inquiry
 date: 2019-02-12 20:02:00 +0000
 modified: ''
 categories:
 - examples
-excerpt: 'UN U.S. Cities Index '
+excerpt: "'Song of the Day' Basque Country EUSTAT "
 tags:
 - open data
 image:
-  feature: "/images/un-citiesindex-feature.png"
-  teaser: "/images/uncitiesindex-teaser.png"
+  feature: "/images/basque-feature-1600x800.png"
+  teaser: "/images/basque-feature-400x250.png"
   credit: ''
 
 ---
-Datavized sonfied the UN Sustainable Development Solutions Network's first U.S. Cities SDG Index.
+Datavized collaborated with Basque Country EUSTAT to create a sonification with TwoTone using Basque Country EUSTAT 'Use of Time' data.
 
 ## About the Data
 
-[UN U.S. Cities SDG Index](http://unsdsn.org/resources/publications/us-cities-sdg-index/ "UN U.S. Cities SDG Index")
+[Basque Country EUSTAT Use of Time](http://en.eustat.eus/estadisticas/tema_173/opt_0/tipo_1/ti_Use_of_time/temas.html "Basque Country EUSTAT Use of Time")
+
+[Average Social Time per Participant and Rate Type of Physiological Need Day of the Week and Province](http://en.eustat.eus/elementos/ele0000400/Average_social_time_per_participant_and_rate_type_of_physiological_need_day_of_the_week_and_province_hhmm/tbl0000453_i.htm "Average Social Time per Participant and Rate Type of Physiological Need Day of the Week and Province")
 
 ## Listen to the Data
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/562982358&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/575450994%3Fsecret_token%3Ds-8Qmb5&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-### An example using the arpeggio feature
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/581764176%3Fsecret_token%3Ds-Sq1Fg&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-### An example using adjusting the track duration, master tempo (BPM)
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/581764650%3Fsecret_token%3Ds-eVSoK&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ## Watch the Playthrough
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iafs6t6pu7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-_MZHNWBOsk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Remix the Project
 
-To replicate or remix the project, download the 'U.S. Cities Index 2017' data set [here](https://drive.google.com/file/d/1NvxNo3IR3LKXUMi0xDv9imU-dZn75cj1/view "U.S. Cities Index 2017"), using the first spreadsheet labeled 'Index' or go to the source link [here](http://unsdsn.org/resources/publications/us-cities-sdg-index/ "U.S. Cities Index 2017").
+Watch this short video to learn about how to make the 'Song of the Day' made with TwoTone's City data partner Basque Country EUSTAT.
+
+To replicate or remix the project, download the 'Use of Time' data set [here](https://drive.google.com/open?id=1iKZqutJcmyz1QkxC1gOzyqY9t7K6elb4 "Use of Time data set ") or go to the source link [here](http://en.eustat.eus/elementos/ele0000400/Average_social_time_per_participant_and_rate_type_of_physiological_need_day_of_the_week_and_province_hhmm/tbl0000453_i.html "Basque Country EUSTAT 'Use of Time'").
+
+## Watch the Tutorial
+
+To watch the full tutorial on the making of this sonification, click [here.](https://twotone.io/tutorials/basque-country/ "Basque Country EUSTAT 'Use of Time' TwoTone Tutorial")
