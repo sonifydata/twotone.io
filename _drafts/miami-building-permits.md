@@ -6,7 +6,7 @@ modified: ''
 categories:
 - examples
 excerpt: A data sonification of Building Permits issued by City of Miami from 2014
-  to Present.
+  to present.
 tags:
 - examples
 - videos
