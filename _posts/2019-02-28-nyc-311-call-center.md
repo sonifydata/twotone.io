@@ -25,4 +25,4 @@ image:
 
 ### Remix the Project
 
-Download the data set [here](https://drive.google.com/open?id=1jcm4SgiU8IADOerkdeNLKsYT0EEdM6OV "NYC 311 Call Center Inquiry "), or explore the latest daily weather data from NYC Open Data site [here](https://data.cityofnewyork.us/City-Government/311-Call-Center-Inquiry/tdd6-3ysr "NYC Open Data").
+Download the data set [here](https://drive.google.com/open?id=1jcm4SgiU8IADOerkdeNLKsYT0EEdM6OV "NYC 311 Call Center Inquiry "), or explore the latest daily weather data from NYC Open Data [here](https://data.cityofnewyork.us/City-Government/311-Call-Center-Inquiry/tdd6-3ysr "NYC Open Data").
