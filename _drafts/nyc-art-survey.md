@@ -10,8 +10,8 @@ tags:
 - examples
 - videos
 image:
-  feature: "/images/BPD-firearmrecovery-feature.png"
-  teaser: "/images/bpd-firearmrecovery-teaser.png"
+  feature: "/images/nyc-artsurveydata-feature.png"
+  teaser: "/images/nyc-artsurveydata-teaser.png"
   credit: data.boston.gov
 
 ---
