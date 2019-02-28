@@ -12,7 +12,7 @@ tags:
 image:
   feature: "/images/nyc-artsurveydata-feature.png"
   teaser: "/images/nyc-artsurveydata-teaser.png"
-  credit: data.boston.gov
+  credit: data.cityofnewyork.us
 
 ---
 ### Listen to the Data
