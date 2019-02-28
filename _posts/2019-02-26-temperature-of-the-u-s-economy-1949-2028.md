@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Temperature of the U.S. Economy 1949-2028
-date: 2019-02-26 08:00:00 -0500
+date: 2019-02-26 13:00:00 +0000
 modified: ''
 categories:
 - examples
@@ -10,9 +10,9 @@ tags:
 - video
 - examples
 image:
-  feature: ''
-  teaser: ''
-  credit: ''
+  feature: "/images/cbo-feature.png"
+  teaser: "/images/cbo-temp-teaser.png"
+  credit: cbo.gov
 
 ---
 This example features a sonification of the U.S. debt to GDP ratio, yearly from 1949-2028. The data used is from the Congressional Budget Office Budget & Economic Outlook Report published in January 2019.
