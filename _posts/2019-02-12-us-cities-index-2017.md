@@ -1,16 +1,16 @@
 ---
 layout: article
-title: 'UN U.S. Cities Index'
+title: UN U.S. Cities Index
 date: 2019-02-12 20:02:00 +0000
 modified: ''
 categories:
 - examples
-excerpt: 'UN U.S. Cities Index'
+excerpt: UN U.S. Cities Index
 tags:
 - open data
 image:
-  feature: "/images/un-citiesindex-feature.png"
-  teaser: "/images/uncitiesindex-teaser.png"
+  feature: "/images/un-cities-index-feature.png"
+  teaser: "/images/un-cities-index-teaser.png"
   credit: ''
 
 ---
