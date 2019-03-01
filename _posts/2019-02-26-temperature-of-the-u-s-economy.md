@@ -14,7 +14,7 @@ tags:
 - examples
 
 ---
-This example features a sonification of the U.S. debt to GDP ratio, yearly from 1949-2028. The data used is from the Congressional Budget Office Budget & Economic Outlook Report published January 28, 2019.
+This example features a sonification of the U.S. debt to GDP ratio, yearly from 1949-2028. The data used is from the Congressional Budget Office Budget & Economic Outlook Report published January 28, 2019. We created a simple one-sheet spreadsheet showing debt held by public and Debt to GDP Ratio, both of which are directly listed in the historical budget data spreadsheet, and added GDP, which is not listed in the that file but we calculated by dividing debt by the ratio. Since the ratio doesn't have a unit, the resulting GDP value is in the same nominal dollar units as the debt value. We created three separate tones for this sonification. The higher notes are for the ratio. Then the two mid-range tones are for the numerator and denominator respectively. The idea is that the changing dissonance between the two demonstrates when they diverge and converge over time. For the denominator (GDP), we added a second note in the rhythm to indicate which is which. The numerator does not have that second note.
 
 ## Listen to the Data
 
