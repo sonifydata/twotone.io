@@ -13,7 +13,7 @@ tags:
 - videos
 
 ---
-The Annual Arts in Schools Report by the E includes data about arts teachers, arts budgeting, space for the arts, partnerships with arts and cultural organizations and parent involvement for elementary, middle and high schools. These reports help school administrators, parents and students understand how their schools are progressing towards offering universal arts education to all students.
+The Annual Arts in Schools Report by the Department of Education (DOE) includes data about arts teachers, arts budgeting, space for the arts, partnerships with arts and cultural organizations and parent involvement for elementary, middle and high schools. These reports, updated annually, help school administrators, parents and students understand how their schools are progressing towards offering universal arts education to all students.
 
 ### Listen to the Data
 
