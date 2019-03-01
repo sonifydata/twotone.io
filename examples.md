@@ -19,11 +19,11 @@ image:
 {% endfor %}
 </div><!-- /.tiles -->
 
-<h3>A selection of projects using TwoTone</h3>
-<div class="list">
-{% for post in site.categories.examples %}
-{% unless post.featured %}
-{% include post-list.html %}
-{% endunless %}
-{% endfor %}
+<h3>A selection of projects made with TwoTone</h3>  
+<div class="list">  
+{% for post in site.categories.examples %}  
+{% unless post.featured %}  
+{% include post-list.html %}  
+{% endunless %}  
+{% endfor %}  
 </div>
