@@ -2,33 +2,34 @@
 layout: article
 title: NYC Public Wi-Fi Hotspots
 short-title: NYC Wi-Fi Hotspots
-date: 2019-02-19 08:00:00 -0500
+date: 2019-02-19 13:00:00 +0000
 modified: ''
 categories:
 - examples
-excerpt: A creative musical interpretation of Free Public NYC Wi-Fi location and provider data. Experimenting with oscillators and double bass.
+excerpt: A creative musical interpretation of Free Public NYC Wi-Fi location and provider
+  data. Experimenting with oscillators and double bass.
 tags:
 - examples
 - videos
-# image:
-#   feature: "/images/nyc-publicwifi-feature.png"
-#   teaser: "/images/nyc-publicwifi-teaser.png"
-#   credit: data.cityofnewyork.us
+featured: false
+image:
+  feature: ''
+  teaser: ''
+  credit: ''
 
 ---
+NYC Wi-Fi Hotspot Locations is public data of Wi-Fi Providers: 
+CityBridge, LLC (Free Beta): LinkNYC 1 gigabyte (GB), and Free Wi-Fi Internet Kiosks in NYC.
+
 ### Listen to the Data
 
-#### Version 1
+#### Soundtrack
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/580770960&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-#### Version 2
+#### Dreamy
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/580963137&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-### Listen to the TwoTone Electronica Playlist
-
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/714048729&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ### Remix the Project
 
