@@ -6,6 +6,7 @@ modified: ''
 categories:
 - examples
 excerpt: "'Song of the Day' Basque Country EUSTAT"
+featured: true
 tags:
 - open data
 image:

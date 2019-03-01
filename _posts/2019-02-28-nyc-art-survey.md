@@ -6,6 +6,7 @@ modified: ''
 categories:
 - examples
 excerpt: A data sonification of NYC Art Survey Data.
+featured: true
 tags:
 - examples
 - videos

@@ -9,6 +9,7 @@ excerpt: A data sonification of NYC Outdoor Swimming Pool Attendance.
 tags:
 - examples
 - videos
+featured: true
 image:
   feature: "/images/nyc-outdoorswimmingattendance-feature.png"
   teaser: "/images/nyc-outdoorpooldata-teaser.png"

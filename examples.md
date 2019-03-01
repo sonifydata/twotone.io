@@ -10,8 +10,20 @@ image:
   teaser: 
 
 ---
+<h3>Featured</h3>
 <div class="tiles">
 {% for post in site.categories.examples %}
-  {% include post-grid.html %}
+  {% if post.featured %}
+  	{% include post-grid.html %}
+  {% endif %}
 {% endfor %}
 </div><!-- /.tiles -->
+
+<h3>A selection of projects using TwoTone and open data made by Datavized</h3>
+<div class="list">
+{% for post in site.categories.examples %}
+  {% unless post.featured %}
+  	{% include post-list.html %}
+  {% endunless %}
+{% endfor %}
+</div>

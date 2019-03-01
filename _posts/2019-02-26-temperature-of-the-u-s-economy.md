@@ -6,6 +6,7 @@ modified: ''
 categories:
 - examples
 excerpt: A data sonifiction of U.S. Debt to GDP Ratio yearly from 1949-2028.
+featured: true
 tags:
 - video
 - examples

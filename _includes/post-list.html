@@ -1,1 +1,5 @@
-<li>{% if post.date %}<span>{{ post.date | date: "%B %d, %Y" }}</span> &raquo; {% endif %}<a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+<article itemscope itemtype="http://schema.org/Article">
+	<h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+	<p class="post-excerpt" itemprop="description">
+		{% if post.date %}<time class="entry-date date published" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time> &raquo; {% endif %}{{ post.excerpt | strip_html | truncate: 160 }}</p>
+</article>
