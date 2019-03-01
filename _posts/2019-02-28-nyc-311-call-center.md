@@ -18,7 +18,7 @@ image:
   credit: ''
 
 ---
-The NYC 311 - Call Center Inquiry Dataset available on NYC Open Data Portal is updated in near real-time and contains information on all agent-handled calls to the City’s 311 information line, including date, time and topic. We filtered the data set in the data dashboard by Date to show only rows for February 1-10, 2019. We then exported the Rows as CSV (Excel). The file was quite large at 31.3 MB and 150,648 thousand rows of data from February 1, 2019 4:02:37 AM to February 10, 2019 1:00:37 AM. To adapt to TwoTone, we needed to minimize the file size and number of rows as TwoTone supports up to 2,000 rows of data and a maximum file size of 20MB. In Excel we filtered the data set by agencies with the most call volume by hour and sorted the data to show only the top ten agencies. We saved the cleaned data set and uploaded to TwoTone to sonify.
+The NYC 311 - Call Center Inquiry Dataset available on NYC Open Data Portal  contains information on all agent-handled calls to the City’s 311 information line, including date, time and topic. As it's a big data set, we filtered the data in the dashboard by Date to show only rows for February 1-10, 2019. We then exported the Rows as CSV (Excel). The file was quite large at 31.3 MB and 150,648 thousand rows of data from February 1, 2019 4:02:37 AM to February 10, 2019 1:00:37 AM. To adapt to TwoTone, we needed to minimize the file size and number of rows as TwoTone supports up to 2,000 rows of data and a maximum file size of 20MB. In Excel we filtered the data set by agencies with the most call volume by hour and sorted the data to show only the top ten agencies. We saved the cleaned data set and uploaded to TwoTone to sonify.
 
 ### Listen to the Data
 
