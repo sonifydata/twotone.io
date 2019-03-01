@@ -2,21 +2,23 @@
 layout: article
 title: Boston Police Department Firearm Recovery Counts
 short-title: Boston Firearm Recovery
-date: 2019-02-16 08:00:00 -0500
+date: 2019-02-16 13:00:00 +0000
 modified: ''
 categories:
 - examples
-excerpt: Sonifying data from Analyze Boston of daily accounts of firearms recovered by Boston Police Department.
+excerpt: Sonifying data from Analyze Boston of daily accounts of firearms recovered
+  by Boston Police Department.
 tags:
 - examples
 - videos
-# image:
-#   feature: "/images/BPD-firearmrecovery-feature.png"
-#   teaser: "/images/bpd-firearmrecovery-teaser.png"
-#   credit: data.boston.gov
+featured: false
+image:
+  feature: ''
+  teaser: ''
+  credit: ''
 
 ---
-This dataset from Analyze Boston provides daily counts of firearms recovered by Boston Police Department since August 20, 2014. Recovery totals are provided for three distinct channels: crime, voluntary surrender, and gun buyback programs.
+This data set from Analyze Boston provides daily counts of firearms recovered by Boston Police Department since August 20, 2014. Recovery totals are provided for three distinct channels: crime, voluntary surrender, and gun buyback programs.
 
 ### Listen to the Data
 
@@ -26,7 +28,7 @@ This dataset from Analyze Boston provides daily counts of firearms recovered by 
 
 ### Remix the Project
 
-Download the data set [here](https://drive.google.com/open?id=1uoQhVh5-c2jlOt92V57EBA0lxhEfTwhv "Analyze Boston - BPD Firearm Recovery Counts "), or explore the latest daily weather data from Analyze Boston [here](https://data.boston.gov/dataset/boston-police-department-firearms-recovery-counts "Analyze Boston - BPD Firearm Recovery Counts").
+[Download the data set](https://drive.google.com/open?id=1uoQhVh5-c2jlOt92V57EBA0lxhEfTwhv "Analyze Boston - BPD Firearm Recovery Counts "), explore the latest data from [Analyze Boston](https://data.boston.gov/dataset/boston-police-department-firearms-recovery-counts "Analyze Boston - BPD Firearm Recovery Counts"), or preview the data in the table below.
 
 ### Preview the Data
 
