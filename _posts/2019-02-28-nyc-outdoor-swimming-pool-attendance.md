@@ -18,7 +18,7 @@ image:
   credit: ''
 
 ---
-Department of Parks and Recreation (DPR) publishes attendance records annually for NYC Parks outdoor swimming pools. 
+Department of Parks and Recreation (DPR) publishes attendance records annually for NYC Parks outdoor swimming pools.
 
 ### Listen to the Data
 
@@ -32,7 +32,7 @@ Department of Parks and Recreation (DPR) publishes attendance records annually f
 
 ### Remix the Project
 
-Download the data set [here](https://drive.google.com/open?id=1bgBg7MKopP3jgX4kdamsUR8MuOJlNzs3 "NYC Outdoor Swimming Pool Attendance"), or explore the latest daily weather data from NYC Open Data [here](https://data.cityofnewyork.us/City-Government/Outdoor-Swimming-Pool-Attendance/jvwx-xnsr "NYC Outdoor Swimming Pool Attendance"). Or preview and download data from the table preview below.
+[Download the data set](https://drive.google.com/open?id=1bgBg7MKopP3jgX4kdamsUR8MuOJlNzs3 "NYC Outdoor Swimming Pool Attendance"), explore the data from [NYC Open Data Portal](https://data.cityofnewyork.us/City-Government/Outdoor-Swimming-Pool-Attendance/jvwx-xnsr "NYC Outdoor Swimming Pool Attendance"), or preview and download data from the table preview below.
 
 ### Table Preview
 
