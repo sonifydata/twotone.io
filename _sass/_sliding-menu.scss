@@ -129,6 +129,7 @@
       color: $white;
       text-decoration: none;
     }
+
     .teaser {
       position: absolute;
       left: 0;
@@ -155,6 +156,11 @@
         @include font-size(32,no);
       }
     }
+
+    .featured .title {
+      color: $danger-color
+    }
+
     .excerpt {
       margin-top: 0;
       margin-left: 60px;

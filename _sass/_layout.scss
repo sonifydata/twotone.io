@@ -114,6 +114,12 @@
 			color: $black;
 			text-transform: uppercase;
 		}
+
+	    &.featured a {
+	      background-color: $danger-color;
+	      padding: 12px;
+	    }
+
 	}
 }
 
