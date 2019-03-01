@@ -13,6 +13,8 @@ tags:
 - videos
 
 ---
+The Annual Arts in Schools Report by the E includes data about arts teachers, arts budgeting, space for the arts, partnerships with arts and cultural organizations and parent involvement for elementary, middle and high schools. These reports help school administrators, parents and students understand how their schools are progressing towards offering universal arts education to all students.
+
 ### Listen to the Data
 
 #### Soundtrack
@@ -30,5 +32,3 @@ tags:
 ### Table Preview
 
 <iframe width="100%" height="560" title="2017-2018 Arts Survey Data" src="https://data.cityofnewyork.us/w/475h-cg5t/25te-f2tw?cur=qgqOT-7soOI&from=root" frameborder="0" scrolling="no"><a href="https://data.cityofnewyork.us/Education/2017-2018-Arts-Survey-Data/475h-cg5t" title="2017-2018 Arts Survey Data" target="_blank">2017-2018 Arts Survey Data</a></iframe>
-
-![](/images/DurationControl.gif)
