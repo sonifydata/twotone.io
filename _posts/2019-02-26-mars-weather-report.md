@@ -24,4 +24,5 @@ Mars InSight Mission is taking daily weather measurements (temperature, wind, pr
 
 ### Remix the Project
 
-Download the data set [here](https://drive.google.com/file/d/172dBHwedNmywVQdJxK7488ukF1FGTK3q/view "Mars Weather Report "), or explore the latest daily weather data from NASA's MarsInsight Mission Daily Weather site [here](https://mars.nasa.gov/insight/weather/ "NASA Mars Weather").
+[Download the data set](https://drive.google.com/file/d/172dBHwedNmywVQdJxK7488ukF1FGTK3q/view "Mars Weather Report "), or explore the latest daily weather  
+at Elysium Planitia at [NASA Mars Insight Mission Daily Weather](https://mars.nasa.gov/insight/weather/ "NASA Mars Weather").
