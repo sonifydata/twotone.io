@@ -25,7 +25,7 @@ tags:
 
 ### Remix the Project
 
-Download the data set [here](https://drive.google.com/open?id=149QhvDnUNS1FnhU7g8Ir8UxFALvV6Z1C "NYC Art Survey Data"), or explore the latest daily weather data from NYC Open Data [here](). Or preview and download data from the table preview below.
+[Download the data set](https://drive.google.com/open?id=149QhvDnUNS1FnhU7g8Ir8UxFALvV6Z1C "NYC Art Survey Data"), explore the data from [NYC Open Data Portal](https://data.cityofnewyork.us/Education/2017-2018-Arts-Survey-Data/475h-cg5t "NYC Art Survey Data"), or preview and download data from the table preview below.
 
 ### Table Preview
 
