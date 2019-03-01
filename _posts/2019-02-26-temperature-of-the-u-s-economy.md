@@ -2,22 +2,19 @@
 layout: article
 title: Temperature of the U.S. Economy 1949-2028
 short-title: Temperature of US Economy
-date: 2019-02-24 08:00:00 -0500
+date: 2019-02-24 13:00:00 +0000
 modified: ''
 categories:
 - examples
-excerpt: A sonification of U.S. debt to GDP ratio, yearly from 1949 to 2028 from the Congressional Budget Office.
+excerpt: A sonification of U.S. debt to GDP ratio, yearly from 1949 to 2028 from the
+  Congressional Budget Office.
 featured: true
 tags:
 - video
 - examples
-# image:
-#   feature: "/images/cbo-feature.png"
-#   teaser: "/images/cbo-temp-teaser.png"
-#   credit: cbo.gov
 
 ---
-This example features a sonification of the U.S. debt to GDP ratio, yearly from 1949-2028. The data used is from the Congressional Budget Office Budget & Economic Outlook Report published in January 2019.
+This example features a sonification of the U.S. debt to GDP ratio, yearly from 1949-2028. The data used is from the Congressional Budget Office Budget & Economic Outlook Report published January 28, 2019.
 
 ## Listen to the Data
 
@@ -29,4 +26,4 @@ This example features a sonification of the U.S. debt to GDP ratio, yearly from 
 
 ## Remix the Project
 
-To remix the project, download the data set [here](https://drive.google.com/file/d/1ZATpGRlbQZewcdRmAjFl-ibJYKWydYhJ/view "U.S. Debt to GDP Ratio"), or explore the data in the Congressional Budget Office report [here](https://www.cbo.gov/publication/54918 "Congressional Budget Office Budget and Economic Outlook Report Jan 2019").
+[Download the data here](https://drive.google.com/file/d/1ZATpGRlbQZewcdRmAjFl-ibJYKWydYhJ/view "U.S. Debt to GDP Ratio"),  or explore the data as published in the [Congressional Budget Office Report - Budget & Economic Outlook: 2019 to 2019](https://www.cbo.gov/publication/54918 "Congressional Budget Office Budget and Economic Outlook Report Jan 2019").
