@@ -37,7 +37,7 @@ $link-color                  	: #0095a8;
 $primary-color               	: $black;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
-$danger-color                	: #e74c3c;
+$danger-color                	: #f57c00; //#e74c3c;
 $info-color                  	: #3498db;
 
 $table-border-color          	: $border-color;
@@ -86,7 +86,7 @@ $sliding-menu-color 	 		     : $white;
 $sliding-menu-background-hover : $black;
 $sliding-menu-color-hover	 	   : $white;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
-$button-size		         	     : 30px;
+$button-size		         	     : 24px;
 $transition						         : 0.3s; // increase this to see the transformations in slow-motion
 $sliding-menu-animation        : all 500ms cubic-bezier(.86,.01,.77,.78);
 

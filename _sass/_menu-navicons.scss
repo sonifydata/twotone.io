@@ -3,31 +3,40 @@
    https://github.com/SaraSoueidan/navicon-transformicons
    ========================================================================== */
 
+$line-length: $button-size * 0.75;
+$line-width: 2px;
+$line-spacing: 3px;
+$vertical-padding: ($button-size - $line-width * 3 - $line-spacing * 2) / 2;
+
 /* Common to all three-liners */
 
 @mixin line {
-  display: inline-block;
-  width: $button-size;
-  height: $button-size/7;
+  display: block;
+  // width: $line-length;
+  height: $line-width;
   background: $white;
   transition: $transition;
 }
 
+
 .nav-lines {
   @include line;
   position: relative;
+  margin: 0 ($button-size - $line-length) / 2;
   &:before, &:after {
    @include line;
+    // display: none; // temp
+    width: $line-length;
     position: absolute;
     left:0;
     content: '';
-      transform-origin: $button-size/14 center;
+    transform-origin: $button-size/14 center;
   }
   &:before {
-    top: $button-size/4;
+    top: $line-spacing + $line-width;
   }
   &:after {
-    top: -$button-size/4;
+    top: -$line-spacing - $line-width;
   }
 }
 
@@ -49,7 +58,7 @@
     &:before,
     &:after {
       top: 0;
-      width: $button-size/1.8;
+      // width: $line-length;
     }
     &:before {
       transform: rotate3d(0,0,1,40deg);
@@ -73,7 +82,7 @@
     &:before, &:after {
       transform: none;
       top: 0;
-      width: $button-size;
+      // width: $line-length;
     }
   }
 }
@@ -86,7 +95,7 @@
     &:before, &:after{
       transform-origin: 50% 50%;
       top: 0;
-      width: $button-size;
+      // width: $button-size;
     }
     &:before{
       transform: rotate3d(0,0,1,45deg);
@@ -118,7 +127,7 @@
       transition: top .3s ease, -webkit-transform .3s .5s ease; /* delay the formation of the x till the minus is formed */
       transition: top .3s ease, transform .3s .5s ease; /* delay the formation of the x till the minus is formed */
       top: 0;
-      width: $button-size;
+      // width: $button-size;
     }
     &:before {
       transform: rotate3d(0,0,1,45deg);
