@@ -6,7 +6,7 @@ date: 2019-02-22 08:00:00 -0500
 modified: ''
 categories:
 - examples
-excerpt: A data sonification of Mars Daily Temperature Feb 14-20, 2019
+excerpt: 311 Call Center Inquires from February 1-10, 2019. Information on all agent-handled calls to the City’s 311 information line.
 tags:
 - examples
 - videos

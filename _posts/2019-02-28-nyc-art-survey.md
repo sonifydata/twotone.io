@@ -1,7 +1,7 @@
 ---
 layout: article
 title: NYC Arts Survey Data
-date: 2019-02-28 13:00:00 +0000
+date: 2019-02-19 13:00:00 +0000
 modified: ''
 categories:
 - examples
