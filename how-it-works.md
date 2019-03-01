@@ -3,12 +3,12 @@ layout: article
 title: Getting Started with TwoTone
 date: 2019-01-23 21:34:40 +0000
 modified: 2019-01-23 21:34:40 +0000
-excerpt: 
+excerpt:
 tags: []
 image:
-  feature: 
-  teaser: 
-  thumb: 
+  feature:
+  teaser:
+  thumb:
 share: false
 
 ---
@@ -144,11 +144,11 @@ TwoTone will accept spreadsheet files up to 20MB in size and 2,000 rows of data.
 
 ### Does TwoTone store my data?
 
-The data uploaded to TwoTone is processed fully in the web browser: no server-side operations or storage is performed. 
+The data uploaded to TwoTone is processed fully in the web browser: no server-side operations or storage is performed.
 
 ### Where do I find data online?
 
-Organizations like the United Nations have a lot of publicly available data as well as most large cities: for example, try the the [NYC Open Data portal](https://opendata.cityofnewyork.us/data/). You can search these listings, and if you find something you like make sure the size works or edit it down if needed. 
+Organizations like the United Nations have a lot of publicly available data as well as most large cities: for example, try the the [NYC Open Data portal](https://opendata.cityofnewyork.us/data/). You can search these listings, and if you find something you like make sure the size works or edit it down if needed.
 
 TwoTone also has some sample data sets built in to help get you started.
 

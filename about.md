@@ -5,9 +5,9 @@ date: 2019-01-23 21:34:40 +0000
 modified: 2019-01-23 21:34:40 +0000
 excerpt: About TwoTone
 image:
-  feature: 
-  teaser: 
-  thumb: 
+  feature:
+  teaser:
+  thumb:
 share: false
 ads: false
 

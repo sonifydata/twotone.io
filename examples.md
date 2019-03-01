@@ -6,8 +6,8 @@ modified: 2019-01-23 21:34:40 +0000
 excerpt: A selection of projects using TwoTone and open data made by Datavized.
 tags: []
 image:
-  feature: 
-  teaser: 
+  feature:
+  teaser:
 
 ---
 <h3>Featured</h3>
