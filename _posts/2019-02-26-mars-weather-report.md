@@ -5,7 +5,7 @@ date: 2019-02-27 08:00:00 -0500
 modified: ''
 categories:
 - examples
-excerpt: A data sonification of Mars Daily Temperature Feb 14-20, 2019
+excerpt: A time-based sonification of NASA weather data from Mars, using a data set from February 14-20, 2019.
 tags:
 - examples
 - videos

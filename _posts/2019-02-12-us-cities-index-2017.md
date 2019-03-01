@@ -1,11 +1,11 @@
 ---
 layout: article
-title: UN U.S. Cities Index
+title: US Cities Sustainable Development Goals Index
 date: 2019-02-28 15:02:00 -0500
 modified: ''
 categories:
 - examples
-excerpt: UN U.S. Cities Index
+excerpt: Sonifying the UN Sustainable Development Solutions Network’s first U.S. Cities SDG Index. Experimenting with track duration and arpeggio.
 tags:
 - open data
 image:
@@ -14,7 +14,7 @@ image:
   credit: ''
 
 ---
-Datavized sonfied the UN Sustainable Development Solutions Network's first U.S. Cities SDG Index.
+Sonifying the UN Sustainable Development Solutions Network’s first U.S. Cities SDG Index. Experimenting with track duration and arpeggio.
 
 ## About the Data
 

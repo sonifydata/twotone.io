@@ -5,8 +5,7 @@ date: 2019-02-15 08:00:00 -0500
 modified: ''
 categories:
 - examples
-excerpt: A data sonification of Building Permits issued by City of Miami from 2014
-  to present.
+excerpt: Sonification of data from Building Permits issued by the City of Miami from 2014 - Present.
 tags:
 - examples
 - videos

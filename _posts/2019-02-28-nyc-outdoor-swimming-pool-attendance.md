@@ -5,7 +5,7 @@ date: 2019-02-20 08:00:00 -0500
 modified: ''
 categories:
 - examples
-excerpt: A data sonification of NYC Outdoor Swimming Pool Attendance.
+excerpt: A creative musical interpretation of NYC Outdoor Swimming Pool Attendance. Experimenting with adding field audio recordings.
 tags:
 - examples
 - videos

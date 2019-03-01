@@ -5,7 +5,7 @@ date: 2019-02-12 08:00:00 -0500
 modified: ''
 categories:
 - examples
-excerpt: A data sonification of Prussian Cavalry Killed by Horse Kicks
+excerpt: Sonification of a data set of the number of Prussian soldiers killed by horse kicks from 1875-1894.
 tags:
 - examples
 - videos

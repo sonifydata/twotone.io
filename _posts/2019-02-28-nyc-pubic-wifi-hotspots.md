@@ -5,7 +5,7 @@ date: 2019-02-19 08:00:00 -0500
 modified: ''
 categories:
 - examples
-excerpt: A data sonification of NYC Art Survey Data.
+excerpt: A creative musical interpretation of Free Public NYC Wi-Fi location and provider data. Experimenting with oscillators and double bass.
 tags:
 - examples
 - videos

@@ -1,11 +1,11 @@
 ---
 layout: article
-title: NYC Art Survey Data
+title: NYC Arts Survey Data
 date: 2019-02-28 13:00:00 +0000
 modified: ''
 categories:
 - examples
-excerpt: A data sonification of NYC Art Survey Data.
+excerpt: A creative musical interpretation less concerned with understanding the data than creating a layered multi-instrument composition.
 featured: true
 tags:
 - examples

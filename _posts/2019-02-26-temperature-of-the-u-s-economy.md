@@ -5,7 +5,7 @@ date: 2019-02-24 08:00:00 -0500
 modified: ''
 categories:
 - examples
-excerpt: A data sonifiction of U.S. Debt to GDP Ratio yearly from 1949-2028.
+excerpt: A sonification of U.S. debt to GDP ratio, yearly from 1949 to 2028 from the Congressional Budget Office.
 featured: true
 tags:
 - video

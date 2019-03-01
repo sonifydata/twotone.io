@@ -5,8 +5,7 @@ date: 2019-02-16 08:00:00 -0500
 modified: ''
 categories:
 - examples
-excerpt: A data sonification of Boston Police Department firearm recovery counts since
-  August 20, 2014.
+excerpt: Sonifying data from Analyze Boston of daily accounts of firearms recovered by Boston Police Department.
 tags:
 - examples
 - videos

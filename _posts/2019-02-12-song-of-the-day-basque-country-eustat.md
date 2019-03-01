@@ -1,11 +1,11 @@
 ---
 layout: article
-title: Basque Country EUSTAT 'Song of the Day'
+title: Basque Country EUSTAT "Song of the Day"
 date: 2019-02-25 15:02:00 -0500
 modified: ''
 categories:
 - examples
-excerpt: "'Song of the Day' Basque Country EUSTAT"
+excerpt: Creating a "Song Of The Day" using behavioral survey data collected in 2013 to build a sonification story.
 featured: true
 tags:
 - open data
