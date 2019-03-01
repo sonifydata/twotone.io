@@ -1,5 +1,5 @@
 <article itemscope itemtype="http://schema.org/Article">
 	<h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title | escape }}">{{ post.title | escape }}</a></h2>
 	<p class="post-excerpt" itemprop="description">
-		{% if post.date %}<time class="entry-date date published" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time> &raquo; {% endif %}{{ post.excerpt | strip_html | truncate: 160 }}</p>
+		{% if post.date %}<span class="entry-date date published"><time datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time> &raquo; </span>{% endif %}{{ post.excerpt | strip_html | truncate: 160 }}</p>
 </article>

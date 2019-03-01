@@ -15,6 +15,7 @@
   // }
 
   .entry-date {
+    display: none;
     @include font-size(16,no);
     color: lighten($text-color,25);
   }
