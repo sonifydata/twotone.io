@@ -2,18 +2,15 @@
 layout: article
 title: Prussian Cavalry Killed by Horse Kicks
 short-title: Prussian Cavalry
-date: 2019-02-12 08:00:00 -0500
+date: 2019-02-12 13:00:00 +0000
 modified: ''
 categories:
 - examples
-excerpt: Sonification of a data set of the number of Prussian soldiers killed by horse kicks from 1875-1894.
+excerpt: Sonification of a data set of the number of Prussian soldiers killed by horse
+  kicks from 1875-1894.
 tags:
 - examples
 - videos
-# image:
-#   feature: "/images/prussian-horse-kick-data-feature.png"
-#   teaser: "/images/prussian-horse-kick-data-teaser.png"
-#   credit: randomservices.org
 
 ---
 The data give the number of soldiers in the Prussian cavalry killed by horse kicks, by corp membership and by year. The years are from 1875 to 1894, and there are 14 different cavalry corps: the first column corresponds to the guard corp and the other columns to corps 1 through 11, 14, and 15.
@@ -34,4 +31,4 @@ The data give the number of soldiers in the Prussian cavalry killed by horse kic
 
 ### Remix the Project
 
-Download the data set [here](https://drive.google.com/open?id=1lXeE5wBNFfdvu710y8XesfwIRnpcZzon "Prussian Horse-Kick Data "), or view the source [here](https://www.math.psu.edu/treluga/textbook/fitting_distributions.html "Prussian Horse-Kicks Data").
+[Download the data set](https://drive.google.com/open?id=1lXeE5wBNFfdvu710y8XesfwIRnpcZzon "Prussian Horse-Kick Data "), or view the [data source](https://www.math.psu.edu/treluga/textbook/fitting_distributions.html "Prussian Horse-Kicks Data").
