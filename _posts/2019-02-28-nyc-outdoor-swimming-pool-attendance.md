@@ -35,5 +35,5 @@ Download the data set [here](https://drive.google.com/open?id=1bgBg7MKopP3jgX4kd
 
 ### Table Preview
 
-<iframe width="950px" title="Outdoor Swimming Pool Attendance" height="808px" src="https://data.cityofnewyork.us/w/jvwx-xnsr/25te-f2tw?cur=2JZ7xO_5Ar6&from=root" frameborder="0"scrolling="no"><a href="https://data.cityofnewyork.us/City-Government/Outdoor-Swimming-Pool-Attendance/jvwx-xnsr" title="Outdoor Swimming Pool Attendance" target="_blank">Outdoor Swimming Pool Attendance</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p>
+<iframe width="100%" height="560" title="Outdoor Swimming Pool Attendance" src="https://data.cityofnewyork.us/w/jvwx-xnsr/25te-f2tw?cur=2JZ7xO_5Ar6&from=root" frameborder="0" scrolling="no"><a href="https://data.cityofnewyork.us/City-Government/Outdoor-Swimming-Pool-Attendance/jvwx-xnsr" title="Outdoor Swimming Pool Attendance" target="_blank">Outdoor Swimming Pool Attendance</a></iframe>
     

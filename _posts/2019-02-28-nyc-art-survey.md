@@ -35,4 +35,4 @@ Download the data set [here](https://drive.google.com/open?id=149QhvDnUNS1FnhU7g
 
 ### Table Preview
 
-<iframe width="950px" title="2017-2018 Arts Survey Data" height="808px" src="https://data.cityofnewyork.us/w/475h-cg5t/25te-f2tw?cur=qgqOT-7soOI&from=root" frameborder="0"scrolling="no"><a href="https://data.cityofnewyork.us/Education/2017-2018-Arts-Survey-Data/475h-cg5t" title="2017-2018 Arts Survey Data" target="_blank">2017-2018 Arts Survey Data</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p>
+<iframe width="100%" height="560" title="2017-2018 Arts Survey Data" src="https://data.cityofnewyork.us/w/475h-cg5t/25te-f2tw?cur=qgqOT-7soOI&from=root" frameborder="0" scrolling="no"><a href="https://data.cityofnewyork.us/Education/2017-2018-Arts-Survey-Data/475h-cg5t" title="2017-2018 Arts Survey Data" target="_blank">2017-2018 Arts Survey Data</a></iframe>
