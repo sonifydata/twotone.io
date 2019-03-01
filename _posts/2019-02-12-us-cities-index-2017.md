@@ -8,10 +8,10 @@ categories:
 excerpt: Sonifying the UN Sustainable Development Solutions Network’s first U.S. Cities SDG Index. Experimenting with track duration and arpeggio.
 tags:
 - open data
-image:
-  feature: "/images/un-cities-index-feature.png"
-  teaser: "/images/un-cities-index-teaser.png"
-  credit: ''
+# image:
+#   feature: "/images/un-cities-index-feature.png"
+#   teaser: "/images/un-cities-index-teaser.png"
+#   credit: ''
 
 ---
 Sonifying the UN Sustainable Development Solutions Network’s first U.S. Cities SDG Index. Experimenting with track duration and arpeggio.

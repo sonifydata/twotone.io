@@ -13,6 +13,8 @@ feed:
 company: Datavized Technologies, Inc.
 company-url: https://datavized.com
 
+listing-site-teaser: false
+
 # Jekyll configuration
 
 sass:

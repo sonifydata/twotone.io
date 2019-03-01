@@ -10,10 +10,10 @@ featured: true
 tags:
 - video
 - examples
-image:
-  feature: "/images/cbo-feature.png"
-  teaser: "/images/cbo-temp-teaser.png"
-  credit: cbo.gov
+# image:
+#   feature: "/images/cbo-feature.png"
+#   teaser: "/images/cbo-temp-teaser.png"
+#   credit: cbo.gov
 
 ---
 This example features a sonification of the U.S. debt to GDP ratio, yearly from 1949-2028. The data used is from the Congressional Budget Office Budget & Economic Outlook Report published in January 2019.

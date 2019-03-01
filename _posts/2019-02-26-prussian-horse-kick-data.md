@@ -9,10 +9,10 @@ excerpt: Sonification of a data set of the number of Prussian soldiers killed by
 tags:
 - examples
 - videos
-image:
-  feature: "/images/prussian-horse-kick-data-feature.png"
-  teaser: "/images/prussian-horse-kick-data-teaser.png"
-  credit: randomservices.org
+# image:
+#   feature: "/images/prussian-horse-kick-data-feature.png"
+#   teaser: "/images/prussian-horse-kick-data-teaser.png"
+#   credit: randomservices.org
 
 ---
 The data give the number of soldiers in the Prussian cavalry killed by horse kicks, by corp membership and by year. The years are from 1875 to 1894, and there are 14 different cavalry corps: the first column corresponds to the guard corp and the other columns to corps 1 through 11, 14, and 15.

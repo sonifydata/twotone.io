@@ -9,10 +9,10 @@ excerpt: A time-based sonification of NASA weather data from Mars, using a data 
 tags:
 - examples
 - videos
-image:
-  feature: "/images/marsweather-feature.jpg"
-  teaser: "/images/marsweatherteaser.jpg"
-  credit: NASA.gov
+# image:
+#   feature: "/images/marsweather-feature.jpg"
+#   teaser: "/images/marsweatherteaser.jpg"
+#   credit: NASA.gov
 
 ---
 ### Listen to the Data

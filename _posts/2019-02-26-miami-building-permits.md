@@ -9,10 +9,10 @@ excerpt: Sonification of data from Building Permits issued by the City of Miami 
 tags:
 - examples
 - videos
-image:
-  feature: "/images/cityofmiami-buildingpermits-feature.png"
-  teaser: "/images/cityofmiami-buildingpermits-teaser.png"
-  credit: NASA.gov
+# image:
+#   feature: "/images/cityofmiami-buildingpermits-feature.png"
+#   teaser: "/images/cityofmiami-buildingpermits-teaser.png"
+#   credit: NASA.gov
 
 ---
 ### Listen to the Data

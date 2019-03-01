@@ -10,10 +10,10 @@ featured: true
 tags:
 - examples
 - videos
-image:
-  feature: "/images/nyc-artsurveydata-feature.png"
-  teaser: "/images/nyc-artsurveydata-teaser.png"
-  credit: data.cityofnewyork.us
+# image:
+#   feature: "/images/nyc-artsurveydata-feature.png"
+#   teaser: "/images/nyc-artsurveydata-teaser.png"
+#   credit: data.cityofnewyork.us
 
 ---
 ### Listen to the Data

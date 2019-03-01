@@ -10,10 +10,10 @@ tags:
 - examples
 - videos
 featured: true
-image:
-  feature: "/images/nyc-outdoorswimmingattendance-feature.png"
-  teaser: "/images/nyc-outdoorpooldata-teaser.png"
-  credit: data.cityofnewyork.us
+# image:
+#   feature: "/images/nyc-outdoorswimmingattendance-feature.png"
+#   teaser: "/images/nyc-outdoorpooldata-teaser.png"
+#   credit: data.cityofnewyork.us
 
 ---
 ### Listen to the Data

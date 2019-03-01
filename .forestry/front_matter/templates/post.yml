@@ -8,6 +8,13 @@ fields:
   label: Title
   config:
     required: true
+- type: text
+  name: short-title
+  label: Short Title
+  description: Short title to be displayed in listing/archive page.
+    The full title will be displayed in the page itself.
+  config:
+    required: false
 - type: datetime
   name: date
   label: Date

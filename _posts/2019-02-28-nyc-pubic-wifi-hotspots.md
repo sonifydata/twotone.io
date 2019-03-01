@@ -9,10 +9,10 @@ excerpt: A creative musical interpretation of Free Public NYC Wi-Fi location and
 tags:
 - examples
 - videos
-image:
-  feature: "/images/nyc-publicwifi-feature.png"
-  teaser: "/images/nyc-publicwifi-teaser.png"
-  credit: data.cityofnewyork.us
+# image:
+#   feature: "/images/nyc-publicwifi-feature.png"
+#   teaser: "/images/nyc-publicwifi-teaser.png"
+#   credit: data.cityofnewyork.us
 
 ---
 ### Listen to the Data
