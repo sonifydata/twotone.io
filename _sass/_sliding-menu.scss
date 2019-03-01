@@ -9,10 +9,10 @@
 .slide {
     transform: translateX(-100%);
     @include media($medium) {
-      transform: translateX(em(-600));
+      transform: translateX(em(-600) + em(100));
     }
     @include media($large) {
-      transform: translateX(em(-900));
+      transform: translateX(em(-900) + em(100));
     }
   }
 
@@ -45,10 +45,10 @@
     background: $danger-color;
     transform: translateX(0); /* don't slide close button on small screens only */
     @include media($medium) {
-      transform: translateX(em(-600)); /* reset slide position */
+      transform: translateX(em(-600) + em(100)); /* reset slide position */
     }
     @include media($large) {
-      transform: translateX(em(-900)); /* reset slide position */
+      transform: translateX(em(-900) + em(100)); /* reset slide position */
     }
   }
 }
