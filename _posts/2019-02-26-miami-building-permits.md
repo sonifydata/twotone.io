@@ -13,7 +13,7 @@ tags:
 - videos
 
 ---
-Building Permits issued by City of Miami from 2014 to present is government open data, published by City of Miami and updated daily.
+Building Permits issued by City of Miami from 2014 to present is government open data published by City of Miami. Building permits are updated daily.
 
 ### Listen to the Data
 
