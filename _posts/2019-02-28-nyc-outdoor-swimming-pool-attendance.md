@@ -2,34 +2,33 @@
 layout: article
 title: NYC Outdoor Swimming Pool Attendance
 short-title: NYC Swimming Pool
-date: 2019-02-20 08:00:00 -0500
+date: 2019-02-20 13:00:00 +0000
 modified: ''
 categories:
 - examples
-excerpt: A creative musical interpretation of NYC Outdoor Swimming Pool Attendance. Experimenting with adding field audio recordings.
+excerpt: A creative musical interpretation of NYC Outdoor Swimming Pool Attendance.
+  Experimenting with adding field audio recordings.
 tags:
 - examples
 - videos
 featured: true
-# image:
-#   feature: "/images/nyc-outdoorswimmingattendance-feature.png"
-#   teaser: "/images/nyc-outdoorpooldata-teaser.png"
-#   credit: data.cityofnewyork.us
+image:
+  feature: ''
+  teaser: ''
+  credit: ''
 
 ---
+Department of Parks and Recreation (DPR) publishes attendance records annually for NYC Parks outdoor swimming pools. 
+
 ### Listen to the Data
 
-#### Version 1
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/579875793&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-#### Version 2
+#### Ambient
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/579786669&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-### Listen to the TwoTone Electronica Playlist
+#### Soundtrack
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/714048729&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/579875793&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ### Remix the Project
 
