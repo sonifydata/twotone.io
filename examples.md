@@ -3,7 +3,7 @@ layout: archive
 title: Examples
 date: 2019-01-23 21:34:40 +0000
 modified: 2019-01-23 21:34:40 +0000
-excerpt: A selection of projects using TwoTone and open data made by Datavized.
+excerpt: A selection of projects using TwoTone and open data.
 tags: []
 image:
   feature:
@@ -19,7 +19,7 @@ image:
 {% endfor %}
 </div><!-- /.tiles -->
 
-<h3>A selection of projects using TwoTone and open data made by Datavized</h3>
+<h3>A selection of projects using TwoTone and open data</h3>
 <div class="list">
 {% for post in site.categories.examples %}
   {% unless post.featured %}
