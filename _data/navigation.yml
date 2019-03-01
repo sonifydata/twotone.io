@@ -3,25 +3,25 @@
 - title: Start App
   url: https://app.twotone.io
   excerpt: "Launch TwoTone web app"
-  image: /images/400x250-placeholder.gif
+  # image: /images/400x250-placeholder.gif
   featured: true
 
 - title: How It Works
   url: /how-it-works/
   excerpt: "Everything you need to know to get started with TwoTone"
-  image: /images/400x250-placeholder.gif
+  # image: /images/400x250-placeholder.gif
 
 - title: Tutorials
   url: /tutorials/
   excerpt: "Learn by watching these short video walkthroughs."
-  image: /images/400x250-placeholder.gif
+  # image: /images/400x250-placeholder.gif
 
 - title: Examples
   url: /examples/
   excerpt: "A selection of projects by our City data partners."
-  image: /images/400x250-placeholder.gif
+  # image: /images/400x250-placeholder.gif
 
 - title: About
   url: /about/
   excerpt: "All about TwoTone"
-  image: /images/400x250-placeholder.gif
+  # image: /images/400x250-placeholder.gif
