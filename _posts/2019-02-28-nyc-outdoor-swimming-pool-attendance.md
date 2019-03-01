@@ -1,6 +1,7 @@
 ---
 layout: article
 title: NYC Outdoor Swimming Pool Attendance
+short-title: NYC Swimming Pool
 date: 2019-02-20 08:00:00 -0500
 modified: ''
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Temperature of the U.S. Economy 1949-2028
+short-title: Temperature of US Economy
 date: 2019-02-24 08:00:00 -0500
 modified: ''
 categories:

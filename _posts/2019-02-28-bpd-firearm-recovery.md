@@ -1,6 +1,7 @@
 ---
 layout: article
-title: BPD Firearm Recovery Counts
+title: Boston Police Department Firearm Recovery Counts
+short-title: Boston Firearm Recovery
 date: 2019-02-16 08:00:00 -0500
 modified: ''
 categories:

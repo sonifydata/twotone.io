@@ -1,6 +1,7 @@
 ---
 layout: article
-title: 'City of Miami Building Permits '
+title: City of Miami Building Permits
+short-title: Miami Building Permits
 date: 2019-02-15 08:00:00 -0500
 modified: ''
 categories:

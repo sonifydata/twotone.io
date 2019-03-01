@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Prussian Cavalry Killed by Horse Kicks
+short-title: Prussian Cavalry
 date: 2019-02-12 08:00:00 -0500
 modified: ''
 categories:

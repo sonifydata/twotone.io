@@ -1,6 +1,7 @@
 ---
 layout: article
 title: NYC 311 Call Center Inquiry
+short-title: NYC 311 Inquiries
 date: 2019-02-22 08:00:00 -0500
 modified: ''
 categories:
