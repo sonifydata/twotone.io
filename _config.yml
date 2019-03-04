@@ -1,6 +1,7 @@
 # Site wide configuration
 
 title: "TwoTone"
+title-tag: "TwoTone Data Sonification"
 description: A free web app to turn data into sound and music
 logo: /images/two-tone-logo.svg # 120x120 px default image used for Twitter summary card
 logo-raster: /images/two-tone-logo.png
