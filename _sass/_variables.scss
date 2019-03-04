@@ -28,6 +28,7 @@ $body-color                  	: #ebebeb;
 
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
+$light-text-color             : #767676; // https://uxmovement.com/content/why-your-gray-text-should-never-exceed-46-brightness/
 
 $base-color                  	: #343434;
 $comp-color                  	: complement($base-color);

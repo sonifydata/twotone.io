@@ -136,7 +136,7 @@
 
 	font-weight: 700;
 	a {
-		color: lighten($black,60);
+		color: $light-text-color;
 	}
 }
 
@@ -202,7 +202,7 @@
 				p{
 					@include font-size(14,no);
 					font-family: $alt-font;
-					color: lighten($black,60);
+					color: $light-text-color;
 				}
 			}
 		}
@@ -401,9 +401,9 @@
 	/* Copyright text */
 	.copyright {
 		@include font-size(12);
-		color: lighten($black,60);
+		color: $light-text-color;
 		a {
-			color: lighten($black,60);
+			color: $light-text-color;
 			text-decoration: none;
 		}
 	}
