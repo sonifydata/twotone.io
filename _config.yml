@@ -12,6 +12,7 @@ feed:
   path: atom.xml
 company: Datavized Technologies, Inc.
 company-url: https://datavized.com
+google-analytics-key: UA-73326563-7
 
 listing-site-teaser: false
 
