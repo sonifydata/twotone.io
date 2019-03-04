@@ -33,7 +33,7 @@ $light-text-color             : #767676; // https://uxmovement.com/content/why-y
 $base-color                  	: #343434;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
-$link-color                  	: #0095a8;
+$link-color                   : #007F8F; // same hue/saturation as app primary color, but darker to meet contrast requirements
 
 $primary-color               	: $black;
 $success-color               	: #2ecc71;
