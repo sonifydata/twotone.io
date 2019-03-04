@@ -1,12 +1,11 @@
 ---
 layout: article
-title: Basic Tutorial
+title: Introduction to TwoTone
 date: 2019-02-25 13:00:00 +0000
 modified: ''
 categories:
 - tutorials
-excerpt: A tutorial on the basic features, using the sample data set Honey Production
-  in the USA (1998-2012).
+excerpt: Learn the basics of using TwoTone.
 tags:
 - video
 - tutorial
@@ -18,6 +17,6 @@ image:
   credit: ''
 
 ---
-Watch this introduction tutorial video to learn about how to get started using TwoTone. This walkthrough will show you the simple steps to get started with TwoTone so you'll be quickly on your way to creating your first data sonification. There is also a handy tour built into the app.
+Watch this introduction tutorial video to learn about how to get started using TwoTone. This walkthrough will show you the simple steps to get started with TwoTone so you'll be quickly on your way to creating your first data sonification. There is also a handy tour built into the app. This tutorial uses the sample data set Honey Production in the USA (1998-2012), there are also several other spreadsheets built into the app to get you started.
 
 <iframe width="560" height="315" src="https://youtu.be/I0vL_g1DYmY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
