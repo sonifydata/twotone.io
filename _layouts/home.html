@@ -19,7 +19,8 @@ layout: basic
 			</a>
 		</div>
 		<h1>Welcome to TwoTone</h1>
-		<h2>A free and open-source tool to make music from data</h2>
+		{% assign tagline = page.tagline | default: site.tagline | default: site.description %}
+		{% if tagline %}<h2>{{ tagline }}</h2>{% endif %}
 		<a href="//app.twotone.io" class="btn-inverse">Get Started</a> &nbsp; or &nbsp; <a href="https://github.com/datavized/twotone" class="btn-inverse">View on GitHub</a>
 	</div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
@@ -30,14 +31,11 @@ layout: basic
 	<div id="main" role="main">
 		<div class="wrap">
 			<div class="page-title">
-				<h1>{{ page.title }}</h1>
-				{% if page.excerpt %}<h2>{{ page.excerpt }}</h2>{% endif %}
+				{% if page.excerpt %}<h3>{{ page.excerpt }}</h3>{% endif %}
 			</div>
 			<div class="archive-wrap">
 				<div class="page-content">
-					<div class="tiles home-tiles">
-						{{ content }}
-					</div>
+					{{ content }}
 				</div><!-- /.page-content -->
 			</div class="archive-wrap"><!-- /.archive-wrap -->
 		</div><!-- /.wrap -->
