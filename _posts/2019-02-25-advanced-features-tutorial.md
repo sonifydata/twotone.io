@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Basque Country EUSTAT Tutorial
-date: 2019-02-25 08:00:00 -0500
+date: 2019-02-25 13:00:00 +0000
 modified: ''
 categories:
 - tutorials
@@ -9,10 +9,6 @@ excerpt: 'Song of the Day - Basque Country EUSTAT  '
 tags:
 - video
 - tutorial
-# image:
-#  feature: "/images/basque-feature-1600x800.png"
-#  teaser: "/images/basque-teaser.png"
-#  credit: en.eustat.eus
 
 ---
 Watch this tutorial video to learn about how to make the 'Song of the Day' made with TwoTone's City data partner Basque Country EUSTAT.
