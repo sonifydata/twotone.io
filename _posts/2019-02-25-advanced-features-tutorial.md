@@ -5,7 +5,8 @@ date: 2019-02-25 13:00:00 +0000
 modified: ''
 categories:
 - tutorials
-excerpt: 'Song of the Day - Basque Country EUSTAT  '
+excerpt: A tutorial on the advanced features, using the Basque Country EUSTAT 'Song
+  of the Day' example.
 tags:
 - video
 - tutorial
