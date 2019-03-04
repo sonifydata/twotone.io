@@ -64,6 +64,7 @@ fields:
   label: Layout
   default: article
 pages:
+- _posts/advanced-features-tutorial-1.md
 - _posts/advanced-features-tutorial.md
 - _posts/2019-02-28-bpd-firearm-recovery.md
 - _posts/2019-02-12-song-of-the-day-basque-country-eustat.md
