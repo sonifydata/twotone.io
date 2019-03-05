@@ -12,7 +12,7 @@ image:
 
 Learn how to use TwoTone by watching these video walkthroughs.
 <div class="tiles">
-{% for post in site.categories.tutorials %}
+{% for post in site.categories.tutorials reversed %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
