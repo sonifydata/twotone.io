@@ -26,6 +26,8 @@ This data set from Analyze Boston provides daily counts of firearms recovered by
 
 ### Watch the Playthrough
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k4fOkImzseM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Remix the Project
 
 [Download the data set](https://drive.google.com/open?id=1uoQhVh5-c2jlOt92V57EBA0lxhEfTwhv "Analyze Boston - BPD Firearm Recovery Counts "), explore the latest data from [Analyze Boston](https://data.boston.gov/dataset/boston-police-department-firearms-recovery-counts "Analyze Boston - BPD Firearm Recovery Counts"), or preview and download the data using the table preview below.
