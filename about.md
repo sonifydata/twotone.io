@@ -12,7 +12,7 @@ share: false
 ads: false
 
 ---
-**TwoTone** lets you turn data into sound and music. It uses the process of sonification to let you hear data. It’s free and open source and runs 100% on the web, so you don’t need to download anything. TwoTone works on desktops, tablets and phones. It’s designed to be fast, fun and easy to use. TwoTone is imagined and made by [Datavized Technologies](https://datavized.com) with support from [Google News Initiative](https://newsinitiative.withgoogle.com/ "Google News Initiative").
+**TwoTone** lets you turn data into sound and music. It uses the process of [sonification](https://en.wikipedia.org/wiki/Sonification "Sonification") to let you hear data. It’s free and open source and runs 100% on the web, so you don’t need to download anything. TwoTone works on desktops, tablets and phones. It’s designed to be fast, fun and easy to use. TwoTone is imagined and made by [Datavized Technologies](https://datavized.com) with support from [Google News Initiative](https://newsinitiative.withgoogle.com/ "Google News Initiative").
 
 This is the second tool in Datavized's collaboration with Google. The first, [Morph](https://morph.graphics/ "Morph"), lets you make art from data. Both projects were commissioned by [Simon Rogers](https://simonrogers.net/) at Google, and the development process was mentored by advisor [Alberto Cairo](http://www.thefunctionalart.com/).
 
