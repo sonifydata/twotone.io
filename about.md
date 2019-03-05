@@ -37,4 +37,5 @@ There are two areas where TwoTone adds value:
 The [Google News Initiative](https://newsinitiative.withgoogle.com/ "Google News Initiative") is Google's effort to work with the news industry to help journalism thrive in the digital age. The GNI brings together everything Google does in collaboration with the industry—across products, partnerships, and programs—to help build a stronger future for news. It is focused on three objectives: elevate and strengthen quality journalism, evolve business models to drive sustainable growth and empower news organizations through technological innovation.
 
 ## Electronic Press Kit
-To view the press release and download TwoTone logos for use in media coverage, access our EPK. For all media inquiries, please contact us at contact@datavized.com.
+
+To view the press release and download TwoTone logos for use in media coverage, access our [EPK](https://drive.google.com/open?id=1afZL7DaSWBOgfKBzWlm6XpTIfkdxU-lP "TwoTone EPK"). For all media inquiries, please contact us at contact@datavized.com.
