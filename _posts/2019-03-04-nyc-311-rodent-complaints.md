@@ -26,3 +26,13 @@ For this sonification, we decided to jazz it up with instruments and rhythms tha
 * **Rodent Bites** - a recording of someone exclaiming ["Ow!"](https://freesound.org/people/Topschool/sounds/442602/), triggered once in each of the thankfully rare occurrences.
 
 Since there were almost a quarter of a million calls over eight years, the data required a bit of editing to make it manageable. A simple pivot table suffices, with call dates grouped into months as row headers and complaint description as column headers.
+
+### Listen to the Data
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/585138558%3Fsecret_token%3Ds-Ep4CA&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### Watch the Playthrough
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nqW1Cnq6cEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Remix the Project
