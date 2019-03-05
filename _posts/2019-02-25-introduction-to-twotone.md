@@ -21,7 +21,6 @@ Watch this introduction tutorial video to learn about how to get started using T
 
 This tutorial uses the sample data set Honey Production in the USA (1998-2012), there are also several other spreadsheets built into the app to get you started and a handy tour built into the app.
 
-For TwoTone documentation, visit 'How it Works' or the Githhub repo.
-
+For TwoTone documentation, visit ['How it Works'](https://twotone.io/how-it-works/ "How it Works") or the [Githhub repo](https://github.com/datavized/twotone "TwoTone Github Repo").
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I0vL_g1DYmY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
