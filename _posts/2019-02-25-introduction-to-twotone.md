@@ -24,4 +24,4 @@ This tutorial uses the sample data set Honey Production in the USA (1998-2012), 
 For TwoTone documentation, visit 'How it Works' or the Githhub repo.
 
 
-<iframe width="560" height="315" src="https://youtu.be/I0vL_g1DYmY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I0vL_g1DYmY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
