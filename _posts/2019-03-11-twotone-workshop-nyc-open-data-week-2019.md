@@ -1,7 +1,7 @@
 ---
 layout: article
 title: TwoTone Workshop - NYC Open Data Week 2019
-short-title: Open Data Workshop
+short-title: NYC Open Data Workshop
 date: 2019-03-11 14:00:00 -0400
 categories:
 - video
