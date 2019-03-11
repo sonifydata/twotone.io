@@ -1,15 +1,28 @@
 	<!-- Twitter Cards -->
 	<meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+
 	{% if page.excerpt and page.excerpt != '' %}<meta name="twitter:description" content="{{ page.excerpt | strip_html | escape }}">{% endif %}
+
 	{% if site.owner.social.twitter %}<meta name="twitter:site" content="@{{ site.owner.social.twitter }}">{% endif %}
+
 	{% if author.twitter %}<meta name="twitter:creator" content="@{{ author.twitter }}">{% endif %}
-	{% if page.image.feature and page.image.feature != '' %}
+
+	{% if page.player.src and page.player.src != '' %}
+	<meta name="twitter:card" content="player">
+	<meta name="twitter:player" content="{{ page.player.src | escape }}">
+	<meta name="twitter:player:width" content="{{ page.player.width | default: 435 }}">
+	<meta name="twitter:player:height" content="{{ page.player.height | default: 400 }}">
+	{% else %}
 	<meta name="twitter:card" content="website">
+	{% endif %}
+
+	{% if page.image.feature and page.image.feature != '' %}
 	<meta name="twitter:image" content="{{ site.url }}{{ page.image.feature }}">
 	{% else %}
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}{{ page.image.thumb }}{% else %}{{ site.url }}/{{ site.logo-raster }}{% endif %}">
 	{% endif %}
+
 	<!-- Open Graph -->
 	<meta property="og:locale" content="{{ site.locale }}">
 	<meta property="og:type" content="article">

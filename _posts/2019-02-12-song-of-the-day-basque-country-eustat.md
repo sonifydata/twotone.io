@@ -15,6 +15,10 @@ image:
   feature: ''
   teaser: ''
   credit: ''
+player:
+  src: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/575450994%3Fsecret_token%3Ds-8Qmb5&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
+  height: 400
+  width: 435
 
 ---
 Datavized collaborated with Basque Country EUSTAT to create a sonification with TwoTone using Basque Country EUSTAT 'Use of Time' data from survey data collected in 2013.
