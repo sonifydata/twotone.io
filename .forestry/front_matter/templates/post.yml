@@ -63,7 +63,7 @@ fields:
   label: Layout
   default: article
 pages:
-- _posts/twotone-workshop-nyc-open-data-week-2019.md
+- _posts/2019-03-11-twotone-workshop-nyc-open-data-week-2019.md
 - _posts/2019-03-04-nyc-311-rodent-complaints.md
 - _posts/2019-02-12-song-of-the-day-basque-country-eustat.md
 - _posts/2019-02-28-bpd-firearm-recovery.md
