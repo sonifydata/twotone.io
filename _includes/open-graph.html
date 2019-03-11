@@ -7,7 +7,7 @@
 
 	{% if author.twitter %}<meta name="twitter:creator" content="@{{ author.twitter }}">{% endif %}
 
-	{% if page.player.src and page.player.src != '' %}
+	{% if page.player.src and page.player.src != '' and false %}
 	<meta name="twitter:card" content="player">
 	<meta name="twitter:player" content="{{ page.player.src | escape }}">
 	<meta name="twitter:player:width" content="{{ page.player.width | default: 435 }}">
