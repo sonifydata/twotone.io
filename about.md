@@ -39,3 +39,7 @@ The [Google News Initiative](https://newsinitiative.withgoogle.com/ "Google News
 ## Electronic Press Kit
 
 To view the press release and download TwoTone logos for use in media coverage, access our [EPK](https://drive.google.com/open?id=1afZL7DaSWBOgfKBzWlm6XpTIfkdxU-lP "TwoTone EPK"). For all media inquiries, please contact us at contact@datavized.com.
+
+## Blog Posts
+
+Learn more about the thinking behind TwoTone from Datavized CEO Hugh, McGrory 'Intro to TwoTone, Simon Rogers, Google Data Journalist & Data Editor 'Sonification: Make beautiful music with your data', and project advisor Alberto Cairo 'Sonifying data with TwoTone'.
