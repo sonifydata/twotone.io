@@ -3,16 +3,15 @@ layout: article
 title: Getting Started with TwoTone
 date: 2019-01-23 21:34:40 +0000
 modified: 2019-01-23 21:34:40 +0000
-excerpt:
+excerpt: 
 tags: []
 image:
-  feature:
-  teaser:
-  thumb:
+  feature: 
+  teaser: 
+  thumb: 
 share: false
 
 ---
-
 You can use [app.twotone.io](//app.twotone.io "app.twotone.io") + or view the source code on [github](https://github.com/datavized/twotone "TwoTone").
 
 {% include toc.html %}
@@ -37,9 +36,8 @@ There is also a guided tour built into the web app.
 
 A TwoTone composition can have any number of separate tracks, each emitting a different audio representation of one column of data. A new track can be created by hovering or clicking on the "+" button in the lower right corner and selecting a track type. Currently, TwoTone supports two types of tracks:
 
-- **Musical Scale** - Generates a sequence of notes with a pitch corresponding to the data value.
-
-- **Narration Audio** - Plays a recorded or imported audio track, optionally on a loop.
+* **Musical Scale** - Generates a sequence of notes with a pitch corresponding to the data value.
+* **Narration Audio** - Plays a recorded or imported audio track, optionally on a loop.
 
 ### Editing a Track
 
@@ -83,9 +81,8 @@ Click the prompt to select an audio file to be played. Audio files can be import
 
 Select an option to determine when and how often the selected audio clip will be played
 
-- **Loop** - The clip will loop on repeat for the duration of the project (assuming the clip is shorter than the project duration). If a filter is applied, the audio will maintain timing with the project's play time, even through silent sections. This is useful for synchronizing music sections without losing the rhythm.
-
-- **Active sections** - When a filter is applied, the clip will play once at the beginning of each non-silent section.
+* **Loop** - The clip will loop on repeat for the duration of the project (assuming the clip is shorter than the project duration). If a filter is applied, the audio will maintain timing with the project's play time, even through silent sections. This is useful for synchronizing music sections without losing the rhythm.
+* **Active sections** - When a filter is applied, the clip will play once at the beginning of each non-silent section.
 
 #### Musical Scale
 
@@ -113,7 +110,7 @@ Each instrument will have a different maximum range of octaves depending on how 
 
 ##### Start Octave
 
-The entire scale range can be shifted higher or lower within the range of the instrument's available scale. The default *Auto* setting will place the selected scale range in the middle of the instrument's scale.
+The entire scale range can be shifted higher or lower within the range of the instrument's available scale. The default _Auto_ setting will place the selected scale range in the middle of the instrument's scale.
 
 ##### Track Tempo
 
@@ -125,10 +122,9 @@ The Track Tempo setting is a multiplier of the global tempo that will play more 
 
 When multiple notes are played per row, this allows for an [arpeggio](https://en.wikipedia.org/wiki/Arpeggio) of notes. The root of the arpeggio will be the note determined by the value for that row, and all notes will be in the given key.
 
-- **None** - Repeat the same note
-- **Ascending** - Notes will be played in order of increasing pitch
-- **Descending** - Notes will be played in order of increasing pitch
-
+* **None** - Repeat the same note
+* **Ascending** - Notes will be played in order of increasing pitch
+* **Descending** - Notes will be played in order of increasing pitch
 
 This setting is only available when Track Tempo is set to more than 1.
 
@@ -158,11 +154,12 @@ TwoTone is designed to be seamlessly integrated into the workflow of a newsroom 
 
 ### How does Text-to-Speech work?
 
-Twotone uses Google’s Text-To-Speech API so that a creator can type a title for their piece and have it read in a male or female voice in different languages. This audio is placed before the music starts to give context to the listener. You can turn it on or off. Technically, this means that Twotone can’t really be described purely as 'sonification' since that word refers to "the use of non-speech audio to convey information or perceptualize data".
+TwoTone uses Google’s Text-To-Speech API so that a creator can type a title for their piece and have it read in a male or female voice in different languages. This audio is placed before the music starts to give context to the listener. You can turn it on or off. Technically, this means that TwoTone can’t really be described purely as 'sonification' since that word refers to "the use of non-speech audio to convey information or perceptualize data".
 
 ## Feedback
 
 Have a question, issue with the app or feedback to help make TwoTone better?
-- Submit our [feedback form](https://docs.google.com/forms/d/1FUTwQ8fe15BTsSyOy3roWhKgWgN7c1I4dTzJR3ZBTu4/edit)
-- File an [issue on GitHub](https://github.com/datavized/twotone/issues)
-- or email us at [contact@datavized.com](mailto:contact@datavized.com)
+
+* Submit our [feedback form](https://docs.google.com/forms/d/1FUTwQ8fe15BTsSyOy3roWhKgWgN7c1I4dTzJR3ZBTu4/edit)
+* File an [issue on GitHub](https://github.com/datavized/twotone/issues)
+* or email us at [contact@datavized.com](mailto:contact@datavized.com)
