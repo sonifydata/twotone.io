@@ -83,6 +83,7 @@ Select an option to determine when and how often the selected audio clip will be
 
 * **Loop** - The clip will loop on repeat for the duration of the project (assuming the clip is shorter than the project duration). If a filter is applied, the audio will maintain timing with the project's play time, even through silent sections. This is useful for synchronizing music sections without losing the rhythm.
 * **Active sections** - When a filter is applied, the clip will play once at the beginning of each non-silent section.
+* **Once per row** - Play clip one time per each row. If the clip is longer than the duration of a single row, it will be cut short.
 
 #### Musical Scale
 
