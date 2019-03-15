@@ -23,7 +23,7 @@ As a child of the 80s, I consider the original [*Legend of Zelda*](https://en.wi
 
 Naturally, I thought of a sonification of Richard Nixon's approval ratings as the perfect fit, for a few reasons. First, audio representation of data lends itself best to data on a timeline, since playback is itself timed by necessity. Second, Nixon had a particularly dramatic administration with a wide enough range of highs and lows to make use of many of the sounds that were used in the game. Finally, having happened in the past, Nixon's presidency is a complete timeline, as opposed to the current President or any prospective candidates.
 
-**Soundcloud embed goes here**
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/590675403%3Fsecret_token%3Ds-uMWJd&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ## The Data
 
