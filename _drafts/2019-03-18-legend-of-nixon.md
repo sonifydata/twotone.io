@@ -60,7 +60,7 @@ I was able to find online samples of individual sound effects from the original 
 
 ## The Result
 
-**YouTube screen capture embed goes here**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sYowKM-Ifg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The final composition plays for about a minute and a half and tracks Nixon's approval rating as it starts relatively high and drops through the Watergate scandal and to his final resignation. It sounds like a short piece of real game play (especially for a mediocre player like me who gets killed pretty quickly).
 
