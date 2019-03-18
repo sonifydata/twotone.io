@@ -1,22 +1,22 @@
 ---
 layout: article
-title: "The Legend of Nixon - Presidential Approval Ratings as Video Game Soundscape"
+title: The Legend of Nixon - Presidential Approval Ratings as Video Game Soundscape
 short-title: The Legend of Nixon
-date: 2019-03-18 09:30:00 -0400
+date: 2019-03-18 13:30:00 +0000
 modified: ''
 categories:
 - examples
-excerpt: "Sonification case study - Richard Nixon's approval ratings as a Legend of Zelda soundtrack"
+excerpt: Sonification case study - Richard Nixon's approval ratings as a Legend of
+  Zelda soundtrack
 featured: true
 tags:
 - polls
 image:
-  feature: /images/nixon-chart.jpg
+  feature: "/images/nixon-chart.jpg"
   teaser: ''
   credit: ''
 
 ---
-
 *This post is authored by Datavized CTO [Brian Chirls](https://twitter.com/bchirls)*
 
 As a child of the 80s, I consider the original [*Legend of Zelda*](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)) for the NES one of my favorite pieces of media. Beyond the gameplay and vast explorable world, I've always loved the sound. The way the sound effects layer on the music turn a short, repeated 8-bit loop into a beautiful reflection of the dramatic tension in the gameplay. The release of TwoTone presented an opportunity to remix these sounds and turn it into something practical.
