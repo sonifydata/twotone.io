@@ -37,7 +37,7 @@ Presidential approval rating data are available from [The American Presidency Pr
 1. Add a few more columns for weekly changes between values, so we can trigger sounds on rises and drops.
 1. Add an "Investigation Status" column to trigger when the Watergate investigation starts and when it ends with Nixon's resignation.
 
-**Link to final spreadsheet on google docs goes here**
+[Download the spreadsheet](https://drive.google.com/open?id=1xXpasVVyYCzv9zItEyAMsdkJclQ10nuk)
 
 ## The Sounds
 
