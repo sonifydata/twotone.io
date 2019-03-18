@@ -2,7 +2,7 @@
 layout: article
 title: "The Legend of Nixon - Presidential Approval Ratings as Video Game Soundscape"
 short-title: The Legend of Nixon
-date: 2019-03-18 14:30:00 +0000
+date: 2019-03-18 09:30:00 -0400
 modified: ''
 categories:
 - examples
@@ -11,7 +11,7 @@ featured: false
 tags:
 - polls
 image:
-  feature: ''
+  feature: /images/nixon-chart.jpg
   teaser: ''
   credit: ''
 
