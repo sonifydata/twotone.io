@@ -7,7 +7,7 @@ modified: ''
 categories:
 - examples
 excerpt: "Sonification case study - Richard Nixon's approval ratings as a Legend of Zelda soundtrack"
-featured: false
+featured: true
 tags:
 - polls
 image:

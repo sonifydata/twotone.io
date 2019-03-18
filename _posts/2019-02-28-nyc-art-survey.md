@@ -7,7 +7,7 @@ categories:
 - examples
 excerpt: A creative musical interpretation less concerned with understanding the data
   than creating a layered multi-instrument composition.
-featured: true
+featured: false
 tags:
 - examples
 - videos
