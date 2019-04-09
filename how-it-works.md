@@ -161,6 +161,6 @@ TwoTone uses Google’s Text-To-Speech API so that a creator can type a title fo
 
 Have a question, issue with the app or feedback to help make TwoTone better?
 
-* Submit our [feedback form](https://docs.google.com/forms/d/1FUTwQ8fe15BTsSyOy3roWhKgWgN7c1I4dTzJR3ZBTu4/edit)
+* Submit our [feedback form](https://docs.google.com/forms/d/e/1FAIpQLScCDNx-izqcWLEDs5ZzMXt7Psnz5Tf72fiOcaj1IGOMonW7Bw/viewform)
 * File an [issue on GitHub](https://github.com/datavized/twotone/issues)
 * or email us at [contact@datavized.com](mailto:contact@datavized.com)
