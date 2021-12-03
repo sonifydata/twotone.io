@@ -9,37 +9,37 @@ layout: basic
 {% else %}
 <div class="page-lead">
 {% endif %}
-	<div class="wrap page-lead-content">
-		<div class="logos">
-			<a href="https://datavized.com" target="_blank" rel="noopener noreferrer">
-				<img src="{{ site.url }}/images/datavized-logo-blue-path.svg" style="width: 189px" alt="Datavized"/>
-			</a>
-			<a href="https://newsinitiative.withgoogle.com" target="_blank" rel="noopener noreferrer">
-				<img src="{{ site.url }}/images/gni-logo.png" style="width: 370px; transform: translateY(23%);" alt="Google News Initiative"/>
-			</a>
-		</div>
-		<h1>Welcome to TwoTone</h1>
-		{% assign tagline = page.tagline | default: site.tagline | default: site.description %}
-		{% if tagline %}<h2>{{ tagline }}</h2>{% endif %}
-		<a href="//app.twotone.io" class="btn-inverse">Get Started</a> &nbsp; or &nbsp; <a href="https://github.com/datavized/twotone" class="btn-inverse">View on GitHub</a>
-	</div><!-- /.page-lead-content -->
+  <div class="wrap page-lead-content">
+{/*    <div class="logos">
+      <a href="https://datavized.com" target="_blank" rel="noopener noreferrer">
+        <img src="{{ site.url }}/images/datavized-logo-blue-path.svg" style="width: 189px" alt="Datavized"/>
+      </a>
+      <a href="https://newsinitiative.withgoogle.com" target="_blank" rel="noopener noreferrer">
+        <img src="{{ site.url }}/images/gni-logo.png" style="width: 370px; transform: translateY(23%);" alt="Google News Initiative"/>
+      </a>
+    </div>*/}
+    <h1>Welcome to TwoTone</h1>
+    {% assign tagline = page.tagline | default: site.tagline | default: site.description %}
+    {% if tagline %}<h2>{{ tagline }}</h2>{% endif %}
+    <a href="https://datavized.github.io/twotone/" class="btn-inverse">Get Started</a> &nbsp; or &nbsp; <a href="https://github.com/datavized/twotone" class="btn-inverse">View on GitHub</a>
+  </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
 <div id="page-wrapper">
-	{% include browser-upgrade.html %}
+  {% include browser-upgrade.html %}
 
-	<div id="main" role="main">
-		<div class="wrap">
-			<div class="page-title">
-				{% if page.excerpt %}<h3>{{ page.excerpt }}</h3>{% endif %}
-			</div>
-			<div class="archive-wrap">
-				<div class="page-content">
-					{{ content }}
-				</div><!-- /.page-content -->
-			</div class="archive-wrap"><!-- /.archive-wrap -->
-		</div><!-- /.wrap -->
-	</div><!-- /#main -->
+  <div id="main" role="main">
+    <div class="wrap">
+      <div class="page-title">
+        {% if page.excerpt %}<h3>{{ page.excerpt }}</h3>{% endif %}
+      </div>
+      <div class="archive-wrap">
+        <div class="page-content">
+          {{ content }}
+        </div><!-- /.page-content -->
+      </div class="archive-wrap"><!-- /.archive-wrap -->
+    </div><!-- /.wrap -->
+  </div><!-- /#main -->
 
-	{% include footer.html %}
+  {% include footer.html %}
 </div>
