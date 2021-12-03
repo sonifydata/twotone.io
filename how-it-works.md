@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Getting Started with TwoTone
-date: 2019-01-23 21:34:40 +0000
-modified: 2019-01-23 21:34:40 +0000
+date: 2019-01-23T21:34:40.000+00:00
+modified: 2019-01-23T21:34:40.000+00:00
 excerpt: 
 tags: []
 image:
@@ -12,7 +12,7 @@ image:
 share: false
 
 ---
-You can use [app.twotone.io](//app.twotone.io "app.twotone.io") + or view the source code on [github](https://github.com/datavized/twotone "TwoTone").
+You can run [the TwoTone webapp](https://datavized.github.io/twotone/ "web app") in the browser. We recommend using Google Chrome for the best experience. The source code is available at [github](https://github.com/datavized/twotone "TwoTone").
 
 {% include toc.html %}
 
@@ -162,5 +162,4 @@ TwoTone uses Google’s Text-To-Speech API so that a creator can type a title fo
 Have a question, issue with the app or feedback to help make TwoTone better?
 
 * Submit our [feedback form](https://docs.google.com/forms/d/e/1FAIpQLScCDNx-izqcWLEDs5ZzMXt7Psnz5Tf72fiOcaj1IGOMonW7Bw/viewform)
-* File an [issue on GitHub](https://github.com/datavized/twotone/issues)
-* or email us at [contact@datavized.com](mailto:contact@datavized.com)
+* or email us at [support@sonify.io](mailto: support@sonify.io)
