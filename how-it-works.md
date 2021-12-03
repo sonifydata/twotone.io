@@ -12,7 +12,7 @@ image:
 share: false
 
 ---
-You can run [the TwoTone webapp](https://datavized.github.io/twotone/ "web app") in the browser. We recommend using Google Chrome for the best experience. The source code is available at [github](https://github.com/datavized/twotone "TwoTone").
+The source code is available at [github](https://github.com/datavized/twotone "TwoTone") or run [the TwoTone webapp](https://datavized.github.io/twotone/ "web app") in the browser. We recommend using Google Chrome for the best experience. 
 
 {% include toc.html %}
 
