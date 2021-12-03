@@ -10,8 +10,7 @@ image:
 
     <div class="tile">
     	<h4 class="post-title">Developed by</h4>
-    	<p class="post-excerpt">TwoTone is an open-source web tool for generating music from data. TwoTone was originally developed by Datavized Technologies with support from <a href="https://newsinitiative.withgoogle.com">Google News Initiative</a> and is now managed and maintained by <a href="https://www.sonify.io">Sonify</a>.
-    
+    	<p class="post-excerpt">TwoTone is an open-source web tool for generating music from data. TwoTone was originally developed by Datavized Technologies with support from <a href="https://newsinitiative.withgoogle.com">Google News Initiative</a> and is now managed and maintained by <a href="https://www.sonify.io">Sonify</a>.</p>
     </div><!-- /.tile -->
     
     <div class="tile">
