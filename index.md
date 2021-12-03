@@ -1,30 +1,32 @@
 ---
 layout: home
-permalink: /
+permalink: "/"
 excerpt: TwoTone uses sonification to let you hear data
 image:
-  background: /images/TwoTone-background.png
+  background: "/images/TwoTone-background.png"
+
 ---
 <div class="tiles home-tiles">
 
-	<div class="tile">
-		<h4 class="post-title">Developed by</h4>
-		<p class="post-excerpt">TwoTone is imagined and made by <a href="https://datavized.com">Datavized Technologies</a> with support from <a href="https://newsinitiative.withgoogle.com">Google News Initiative</a>. We hope you like it.</p>
-	</div><!-- /.tile -->
-
-	<div class="tile">
-		<h4 class="post-title">What is it for?</h4>
-		<p class="post-excerpt">TwoTone can be used for understanding data through listening. It makes data more accessible.</p>
-	</div><!-- /.tile -->
-
-	<div class="tile">
-		<h4 class="post-title">Data</h4>
-		<p class="post-excerpt">TwoTone can be used by itself or in tandem with visualization. Just like in the cinema, sounds add another layer to understanding.</p>
-	</div><!-- /.tile -->
-
-	<div class="tile">
-		<h4 class="post-title">Music</h4>
-		<p class="post-excerpt">TwoTone is a fun and intuitive way to make your own compositions without any prior musical or technical knowledge.</p>
-	</div><!-- /.tile -->
+    <div class="tile">
+    	<h4 class="post-title">Developed by</h4>
+    	<p class="post-excerpt">TwoTone is an open-source web tool for generating music from data. TwoTone was originally developed by Datavized Technologies with support from <a href="https://newsinitiative.withgoogle.com">Google News Initiative</a> and is now managed and maintained by <a href="https://www.sonify.io">Sonify</a>.
+    
+    </div><!-- /.tile -->
+    
+    <div class="tile">
+    	<h4 class="post-title">What is it for?</h4>
+    	<p class="post-excerpt">TwoTone is an introduction to data sonification and data driven music. <a href="https://en.wikipedia.org/wiki/Data_sonification">Data sonification</a> can make data more accessible and approach the interpretation of data from a unfamiliar angle.</p>
+    </div><!-- /.tile -->
+    
+    <div class="tile">
+    	<h4 class="post-title">Data Sets</h4>
+    	<p class="post-excerpt">TwoTone can be used by itself or in tandem with visualization. Sounds add another dimension to understanding.</p>
+    </div><!-- /.tile -->
+    
+    <div class="tile">
+    	<h4 class="post-title">Data Driven Music</h4>
+    	<p class="post-excerpt">TwoTone is a fun and intuitive way to make your own compositions from datasets without any prior musical or programning knowledge.</p>
+    </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
