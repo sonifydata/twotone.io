@@ -12,7 +12,7 @@ share: false
 ads: false
 
 ---
-**TwoTone** lets you turn data into sound and music. It uses the process of [sonification](https://en.wikipedia.org/wiki/Sonification "Sonification") to let you hear data. It’s free and open source and runs 100% on the web, so you don’t need to download anything. TwoTone works on desktops, tablets and phones. It’s designed to be fast, fun and easy to use. TwoTone is imagined and made by [Sonify](http://sonify.io/ "Sonify.io") ( formerly Datavized Technologies ) with support from [Google News Initiative](https://newsinitiative.withgoogle.com/ "Google News Initiative").
+**TwoTone** lets you turn data into sound and music. It uses the process of [sonification](https://en.wikipedia.org/wiki/Sonification "Sonification") to let you hear data. It’s free and open source and runs 100% on the web, so you don’t need to download anything. TwoTone works on desktops, tablets and phones. It’s designed to be fast, fun and easy to use. TwoTone was originally made by Datavized Technologies with support from [Google News Initiative](https://newsinitiative.withgoogle.com/ "Google News Initiative") and is now maintained by [Sonify](http://sonify.io/ "Sonify.io") 
 
 The project was commissioned by [Simon Rogers](https://simonrogers.net/) at Google, and the development process was mentored by advisor [Alberto Cairo](http://www.thefunctionalart.com/).
 
@@ -22,7 +22,7 @@ The project was commissioned by [Simon Rogers](https://simonrogers.net/) at Goog
 
 There are two areas where TwoTone adds value:
 
-1. **Understanding Data** - Music is math. TwoTone uses a technique called "sonification". This just means that it turns data into sound. We didn’t invent this concept, it’s been around for a while already. Our intention is to make it more accessible as a web app. If understanding the data is your goal, you may want to keep things simple and resist the urge to make too many layers or add too many effects.
+1. **Understanding Data** - TwoTone is an introduction to a technique called "data sonification". This just means that it turns data into music. We didn’t invent this concept, it’s been around for a while already. Our intention is to make it more accessible as a web app. If understanding the data is your goal, you may want to keep things simple and resist the urge to make too many layers or add too many effects.
 2. **Making Music** - Get creative. TwoTone is a fun and intuitive way to make your own compositions, without any prior musical or technical knowledge. The algorithm makes an audio track from one column of your data automatically and you can change the instrument, add more columns, and experiment from there until you have made something that interests you. Music you make can be exported for use in creative projects.
 
 ## Advantages
