@@ -11,8 +11,8 @@ timezone: America/New_York
 url: https://twotone.io
 feed:
   path: atom.xml
-company: Datavized Technologies, Inc.
-company-url: https://datavized.com
+company: Sonify
+company-url: https://sonify.io
 google-analytics-key: UA-73326563-7
 
 listing-site-teaser: false
@@ -46,8 +46,8 @@ defaults:
 
 # Site owner
 owner:
-  name: Datavized
-  email: contact@datavized.com
+  name: Sonify
+  email: support@sonify.io
   social:
     twitter: datavized
     facebook: datavized
@@ -57,7 +57,7 @@ owner:
     ad-client:
     ad-slot:
   bio:
-  avatar: /images/datavized-logo-square-blue.svg # 160x160 px image for author byline
+ # avatar: /images/datavized-logo-square-blue.svg # 160x160 px image for author byline
   disqus-shortname:
 
 
