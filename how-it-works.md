@@ -12,7 +12,7 @@ image:
 share: false
 
 ---
-The source code is available at [github](https://github.com/datavized/twotone "TwoTone") or run [the TwoTone webapp](https://datavized.github.io/twotone/ "web app") in the browser. We recommend using Google Chrome for the best experience. 
+The source code is available at [github](https://github.com/datavized/twotone "TwoTone") or run [the TwoTone webapp](http://sonify.io/twotone/ "web app") in the browser. We recommend using Google Chrome for the best experience.
 
 {% include toc.html %}
 
@@ -22,11 +22,10 @@ Follow these simple steps to get started with TwoTone.
 
 1. **Audio Track** - TwoTone will automatically generate an audio track from your data set. You can change your track's data source or instrument.
 2. **Play Audio** - Click the Play button to hear the sound generated from your data.
-3. **Speak Title** - Enter a Title to automatically generate text-to-speech, toggle to turn speech on or off. Customize settings for language, gender and voice options.
-4. **Add Audio Track** - Generate another audio track automatically from your data set or upload an audio track of your own.
-5. **Adjust Duration** - Adjust your total duration, row duration, and tempo (BPM) to speed up or slow down your composition.
-6. **Advanced Features** - Adjust the volume of your audio track, filter it by data columns or by value, change the key of your musical scale, or adjust octave, scale range and tempo to create an arpeggio.
-7. **Export Audio** - Export your project to an audio file in MP3 or Waveform (PCM) format. MP3 Bit Rate export options are 64 kbps, 128 kbps,, 192 kbps, and 320 kbps.
+3. **Add Audio Track** - Generate another audio track automatically from your data set or upload an audio track of your own.
+4. **Adjust Duration** - Adjust your total duration, row duration, and tempo (BPM) to speed up or slow down your composition.
+5. **Advanced Features** - Adjust the volume of your audio track, filter it by data columns or by value, change the key of your musical scale, or adjust octave, scale range and tempo to create an arpeggio.
+6. **Export Audio** - Export your project to an audio file in MP3 or Waveform (PCM) format. MP3 Bit Rate export options are 64 kbps, 128 kbps,, 192 kbps, and 320 kbps.
 
 There is also a guided tour built into the web app.
 
@@ -152,10 +151,6 @@ TwoTone also has some sample data sets built in to help get you started.
 ### How can your organization benefit from using TwoTone?
 
 TwoTone is designed to be seamlessly integrated into the workflow of a newsroom and used either as a standalone tool for publishing sonification on the web or as a soundtrack builder for multimedia projects. The tool is customizable to enable creators to map any data input to the desired audio output.
-
-### How does Text-to-Speech work?
-
-TwoTone uses Google’s Text-To-Speech API so that a creator can type a title for their piece and have it read in a male or female voice in different languages. This audio is placed before the music starts to give context to the listener. You can turn it on or off. Technically, this means that TwoTone can’t really be described purely as 'sonification' since that word refers to "the use of non-speech audio to convey information or perceptualize data".
 
 ## Feedback
 
