@@ -10,7 +10,7 @@ image:
 
     <div class="tile">
     	<h4 class="post-title">Developed by</h4>
-    	<p class="post-excerpt">TwoTone is a <a href="https://www.sonify.io">Sonify</a> project built with support from <a href="https://newsinitiative.withgoogle.com">Google News Initiative</a>. The app was originally developed by Datavized Technologies.
+    	<p class="post-excerpt">TwoTone is a <a href="https://www.sonify.io">Sonify</a> project built with support from <a href="https://newsinitiative.withgoogle.com">Google News Initiative</a>. The app was originally developed by Datavized Technologies.</p>
     </div><!-- /.tile -->
     
     <div class="tile">
