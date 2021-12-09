@@ -35,10 +35,6 @@ Turning data into sound has advantages. Just like in the cinema, sound adds anot
 **About Google News Initiative**  
 The [Google News Initiative](https://newsinitiative.withgoogle.com/ "Google News Initiative") is Google's effort to work with the news industry to help journalism thrive in the digital age. The GNI brings together everything Google does in collaboration with the industry—across products, partnerships, and programs—to help build a stronger future for news. It is focused on three objectives: elevate and strengthen quality journalism, evolve business models to drive sustainable growth and empower news organizations through technological innovation.
 
-## Electronic Press Kit
-
-To view the press release and download TwoTone logos for use in media coverage, access our [EPK](https://drive.google.com/open?id=1afZL7DaSWBOgfKBzWlm6XpTIfkdxU-lP "TwoTone EPK"). For all media inquiries, please contact us at contact@datavized.com.
-
 ## Blog Posts
 
 Learn more about the thinking behind TwoTone from Datavized CEO Hugh McGrory in ['Intro to TwoTone](https://medium.com/@mcgrory/an-intro-to-twotone-dd69305da9c3 "An Intro to TwoTone"), from Simon Rogers, Google Data Journalist & Data Editor in ['Sonification: Make beautiful music with your data'](https://medium.com/@smfrogers/sonification-make-beautiful-music-with-your-data-d8fd59b84f3f "Sonification: Make beautiful music with your data"), and project advisor Alberto Cairo in ['Sonifying data with TwoTone'](http://www.thefunctionalart.com/2019/03/sonifying-data-with-twotone.html "Sonifying data with TwoTone").

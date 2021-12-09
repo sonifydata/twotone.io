@@ -157,4 +157,4 @@ TwoTone is designed to be seamlessly integrated into the workflow of a newsroom 
 Have a question, issue with the app or feedback to help make TwoTone better?
 
 * Submit our [feedback form](https://docs.google.com/forms/d/e/1FAIpQLScCDNx-izqcWLEDs5ZzMXt7Psnz5Tf72fiOcaj1IGOMonW7Bw/viewform)
-* or email us at [support@sonify.io](mailto: support@sonify.io)
+* or email us at [support@sonify.io](mailto:support@sonify.io)
