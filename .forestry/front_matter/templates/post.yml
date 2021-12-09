@@ -21,10 +21,10 @@ fields:
     required: true
   description: The date and time the post is published. This must be set manually.
     If you set it in the future, the post will not publish right away.
-# - type: datetime
-#   name: modified
-#   label: Date Modified
-#   description: Optional. If you want the post to show a date that it has been updated.
+- type: datetime
+  name: modified
+  label: Date Modified
+  description: Optional. If you want the post to show a date that it has been updated.
 - type: tag_list
   name: categories
   label: Categories
