@@ -3,7 +3,6 @@ layout: article
 title: About
 # date: 2019-01-23T21:34:40.000+00:00
 # modified: 2019-01-23T21:34:40.000+00:00
-#
 excerpt: About TwoTone
 image:
   feature: 
@@ -13,7 +12,7 @@ share: false
 ads: false
 
 ---
-[**TwoTone**](datavized.github.io/twotone/ "Launch web app") lets you turn data into sound and music. It uses the process of [sonification](https://en.wikipedia.org/wiki/Sonification "Sonification") to let you hear data. It’s free and open source and runs 100% on the web, so you don’t need to download anything. TwoTone works on desktops, tablets and phones. It’s designed to be fast, fun and easy to use. TwoTone was originally made by Datavized Technologies with support from [Google News Initiative](https://newsinitiative.withgoogle.com/ "Google News Initiative") and is now maintained by [Sonify](http://sonify.io/ "Sonify.io")
+[**TwoTone**](http:/sonify.io/twotone "Launch web app") lets you turn data into sound and music. It uses the process of [sonification](https://en.wikipedia.org/wiki/Sonification "Sonification") to let you hear data. It’s free and open source and runs 100% on the web, so you don’t need to download anything. TwoTone works on desktops, tablets and phones. It’s designed to be fast, fun and easy to use. TwoTone was originally made by Datavized Technologies with support from [Google News Initiative](https://newsinitiative.withgoogle.com/ "Google News Initiative") and is now maintained by [Sonify](http://sonify.io/ "Sonify.io")
 
 The project was commissioned by [Simon Rogers](https://simonrogers.net/) at Google, and the development process was mentored by advisor [Alberto Cairo](http://www.thefunctionalart.com/).
 
