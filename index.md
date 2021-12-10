@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-excerpt: TwoTone uses sonification to let you hear data
+excerpt: TwoTone allows you to sonify a dataset without writing a single line of code
 image:
   background: "/images/TwoTone-background.png"
 
@@ -20,12 +20,12 @@ image:
     
     <div class="tile">
     	<h4 class="post-title">Data Sonification</h4>
-    	<p class="post-excerpt">Data sonification is a technique that can augment visualization. Sounds add another dimension to data.</p>
+    	<p class="post-excerpt">Data sonification is a technique that can augment visualization. Sounds add another dimension to data, expanding the possibilities for human-computer interaction</p>
     </div><!-- /.tile -->
     
     <div class="tile">
-    	<h4 class="post-title">Data Driven Music</h4>
-    	<p class="post-excerpt">TwoTone is a fun and intuitive way to make your own compositions from datasets without any prior musical or programning knowledge.</p>
+    	<h4 class="post-title">Data-Driven Music</h4>
+    	<p class="post-excerpt">TwoTone is a fun and intuitive way to make your own compositions from datasets without any prior musical or programming knowledge.</p>
     </div><!-- /.tile -->
 
 </div><!-- /.tiles -->

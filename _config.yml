@@ -2,7 +2,7 @@
 
 title: "TwoTone"
 title-tag: "TwoTone Data Sonification"
-description: A free web app to turn data into sound and music
+description: A free open-source web app to turn data into music
 logo: /images/two-tone-logo.svg # 120x120 px default image used for Twitter summary card
 logo-raster: /images/two-tone-logo.png
 teaser: /images/400x250-placeholder.gif # 400x250 px default teaser image used in image archive grid
