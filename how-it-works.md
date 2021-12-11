@@ -151,9 +151,3 @@ TwoTone also has some sample data sets built in to help get you started.
 ### How can your organization benefit from using TwoTone?
 
 TwoTone is designed to be seamlessly integrated into the workflow of a newsroom and used either as a standalone tool for publishing sonification on the web or as a soundtrack builder for multimedia projects. The tool is customizable to enable creators to map any data input to the desired audio output.
-
-## Feedback
-
-Have a question, issue with the app or feedback to help make TwoTone better?
-
-* or email us at [support@sonify.io](mailto:support@sonify.io)
