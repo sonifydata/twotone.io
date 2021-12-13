@@ -15,7 +15,7 @@ image:
     
     <div class="tile">
     	<h4 class="post-title">What is it for?</h4>
-    	<p class="post-excerpt">TwoTone is an introduction to data sonification and data driven music. <a href="https://en.wikipedia.org/wiki/Data_sonification">Data sonification</a> adds the option of listening to data to amplify understanding.</p>
+    	<p class="post-excerpt">TwoTone is an introduction to data sonification and data-driven music. <a href="https://en.wikipedia.org/wiki/Data_sonification">Data sonification</a> adds the option of listening to data to amplify understanding.</p>
     </div><!-- /.tile -->
     
     <div class="tile">

@@ -1,12 +1,10 @@
 ---
-title: Sonify Inc Privacy Policy
+title: Sonify, Inc. Privacy Policy
 date: 2019-01-27T21:15:16.040Z
 modified: ''
 excerpt: Datavized Technologies, Inc. Privacy Policy
 share: false
 ---
-
-# **Sonify, Inc. Privacy Policy**
 
 This Privacy Policy explains how Sonify, Inc. (“Sonify”) collects, uses, and discloses information about you through its website, software applications (the “Software”) and other online products and services (collectively, the “Services”) or when you otherwise interact with us.
 

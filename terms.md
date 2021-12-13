@@ -1,13 +1,10 @@
 ---
-title: Sonify Data, Inc. Terms of Use
+title: Sonify, Inc. Terms of Use
 date: 2021-12-10T21:15:16.040Z
 modified: 2021-12-10T21:15:16.040Z
 excerpt: Datavized Technologies, Inc. Terms of Use
 share: false
 ---
-
-# **Sonify, Inc. Terms of Use**
-
 
 ## **Binding Effect**
 

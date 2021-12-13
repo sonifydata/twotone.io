@@ -12,7 +12,7 @@ image:
 share: false
 
 ---
-The source code is available at [github](https://github.com/datavized/twotone "TwoTone") or run [the TwoTone webapp](http://sonify.io/twotone/ "web app") in the browser. We recommend using Google Chrome for the best experience.
+The source code is available at [github](https://github.com/sonifydata/twotone "TwoTone") or run [the TwoTone webapp](http://sonify.io/twotone/ "web app") in the browser. We recommend using Google Chrome for the best experience.
 
 {% include toc.html %}
 
@@ -150,4 +150,4 @@ TwoTone also has some sample data sets built in to help get you started.
 
 ### How can your organization benefit from using TwoTone?
 
-TwoTone is designed to be seamlessly integrated into the workflow of a newsroom and used either as a standalone tool for publishing sonification on the web or as a soundtrack builder for multimedia projects. The tool is customizable to enable creators to map any data input to the desired audio output.
+TwoTone is designed to be seamlessly integrated into your workflow and used either as a standalone tool for publishing sonification on the web or as a soundtrack builder for multimedia projects. The tool is customizable to enable creators to map any data input to the desired audio output.
