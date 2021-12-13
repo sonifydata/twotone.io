@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: Tutorials
-date: 2019-01-23T21:34:40.245Z
-modified: 2019-01-23T21:34:40.245Z
+date: ''
+modified: ''
 excerpt: Learn by watching these video walkthroughs.
 tags: []
 image:
