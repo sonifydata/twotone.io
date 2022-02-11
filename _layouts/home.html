@@ -11,18 +11,18 @@ layout: basic
 {% endif %}
   <div class="wrap page-lead-content">
    <div class="logos">
-      <a href="https://sonify.io" target="_blank" rel="noopener noreferrer">
+      <a href="https://sonify.io" target="_blank" rel="noopener noreferrer" aria-label="Link to Sonify website">
         <img src="{{ site.url }}/images/logos/sonify-logo-w-trans.png" style="width: 165px" alt="Sonify"/>
       </a>
-      <a href="https://newsinitiative.withgoogle.com" target="_blank" rel="noopener noreferrer">
-        <img src="{{ site.url }}/images/gni-logo.png" style="width: 370px;translate: 20px;" alt="Google News Initiative"/>
+      <a href="https://newsinitiative.withgoogle.com" target="_blank" rel="noopener noreferrer" aria-label="Google News Initiative link">
+        <img src="{{ site.url }}/images/gni-logo.png" style="width: 370px;translate: 20px;" alt="Google News Initiative" />
       </a>
     </div>
    
     <h1>Welcome to TwoTone</h1>
     {% assign tagline = page.tagline | default: site.tagline | default: site.description %}
     {% if tagline %}<h2>{{ tagline }}</h2>{% endif %}
-    <a href="http://sonify.io/twotone/" class="btn-inverse">Launch App</a> &nbsp; or &nbsp; <a href="https://github.com/sonifydata/twotone" class="btn-inverse">View on GitHub</a>
+    <a href="https://sonify.io/twotone/" class="btn-inverse" aria-label="Launch app">Launch App</a> &nbsp; or &nbsp; <a href="https://github.com/sonifydata/twotone" aria-label="GitHub Source Code link" class="btn-inverse">View on GitHub</a>
   </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
