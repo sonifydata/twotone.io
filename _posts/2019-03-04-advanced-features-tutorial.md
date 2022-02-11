@@ -27,10 +27,10 @@ For TwoTone documentation, visit ['How it Works](https://twotone.io/how-it-works
 
 # 🆕 MIDI Out Feature
 
-In 2022, we have added the much requested feature - MIDI Out support! This is an experimental addition which allows TwoTone to behave more like a music sequencer, for controlling synthesisers and more using the good old standard \[MIDI\]([https://en.wikipedia.org/wiki/MIDI](https://en.wikipedia.org/wiki/MIDI "https://en.wikipedia.org/wiki/MIDI")). We are currently inviting users to test the new feature.
+In 2022, we have added the much requested feature - MIDI Out support! This is an experimental addition which allows TwoTone to behave more like a music sequencer, for controlling synthesisers and more using the good old standard  [MIDI](https://en.wikipedia.org/wiki/MIDI "MIDI") . We are currently inviting users to test the new feature.
 
-If you would like to sign up to test on your setup, please reach out using the form below the video preview.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KcuHSPgu5z4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc4yWuU0encpFWmcb1Ew9wx3HlPFIQpigVLP6-YYRpkHlWoYw/viewform?embedded=true" width="720" height="2500" frameborder="0" marginheight="5" marginwidth="5">Loading form…</iframe>
+If you would like to sign up to test on your setup, please reach out using the form which you can find below the video preview.
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KcuHSPgu5z4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen aria-label="Video about new MIDI feature"></iframe>
+---
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc4yWuU0encpFWmcb1Ew9wx3HlPFIQpigVLP6-YYRpkHlWoYw/viewform?embedded=true" width="720" height="2500" frameborder="0" marginheight="5" marginwidth="5" aria-label="An embedded form with some questions">Loading form…</iframe>
