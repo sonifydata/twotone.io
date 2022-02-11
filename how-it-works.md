@@ -1,8 +1,7 @@
 ---
 layout: article
 title: Getting Started with TwoTone
-# date: 2019-01-23T21:34:40.000+00:00
-modified: ''
+modified: 
 excerpt: 
 tags: []
 image:
@@ -12,7 +11,7 @@ image:
 share: false
 
 ---
-The source code is available at [github](https://github.com/sonifydata/twotone "TwoTone") or run [the TwoTone webapp](http://sonify.io/twotone/ "web app") in the browser. We recommend using Google Chrome for the best experience.
+The source code is available at [github](https://github.com/sonifydata/twotone "TwoTone") or run [the TwoTone webapp](https://sonify.io/twotone/ "web app") in the browser. We recommend using Google Chrome for the best experience.
 
 {% include toc.html %}
 
@@ -26,6 +25,7 @@ Follow these simple steps to get started with TwoTone.
 4. **Adjust Duration** - Adjust your total duration, row duration, and tempo (BPM) to speed up or slow down your composition.
 5. **Advanced Features** - Adjust the volume of your audio track, filter it by data columns or by value, change the key of your musical scale, or adjust octave, scale range and tempo to create an arpeggio.
 6. **Export Audio** - Export your project to an audio file in MP3 or Waveform (PCM) format. MP3 Bit Rate export options are 64 kbps, 128 kbps,, 192 kbps, and 320 kbps.
+7. **MIDI Output** - 🆕 Send note information fom TwoTone to a synthesiser or another music app
 
 There is also a guided tour built into the web app.
 
