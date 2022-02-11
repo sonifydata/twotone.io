@@ -18,9 +18,14 @@ fields:
   name: date
   label: Date
   config:
-    required: true
+    required: false
+    export_format: YYYY-MM-DD h:mm A
+    date_format: MM/DD/YYYY
   description: The date and time the post is published. This must be set manually.
     If you set it in the future, the post will not publish right away.
+  showOnly:
+    field: layout
+    value: article
 - type: datetime
   name: modified
   label: Date Modified
