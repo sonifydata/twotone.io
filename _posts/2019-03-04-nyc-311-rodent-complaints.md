@@ -2,20 +2,23 @@
 layout: article
 title: NYC 311 Rodent Complaints
 short-title: ''
-date: 2019-03-04 23:00:00 -0500
+date: '2019-03-04 23:00:00 -0500'
 modified: ''
 categories:
-- examples
+  - examples
 excerpt: Rats! All the rodent complains in New York City.
 featured: false
 tags:
-- video
+  - video
 image:
   feature: ''
   teaser: ''
   credit: ''
-
+_template: post
 ---
+
+
+
 The NYC Open Data Portal provides a list of all calls to 311 about [rodent complaints](https://data.cityofnewyork.us/Social-Services/311-Rodent-Complaints/cvf2-zn8s), from 2010 to present.
 
 For this sonification, we decided to jazz it up with instruments and rhythms that felt appropriate for the topic:

@@ -2,22 +2,26 @@
 layout: article
 title: NYC Public Wi-Fi Hotspots
 short-title: NYC Wi-Fi Hotspots
-date: 2019-02-19 13:00:00 +0000
+date: '2019-02-19 13:00:00 +0000'
 modified: ''
 categories:
-- examples
-excerpt: A creative musical interpretation of Free Public NYC Wi-Fi location and provider
-  data. Experimenting with oscillators and double bass.
+  - examples
+excerpt: >-
+  A creative musical interpretation of Free Public NYC Wi-Fi location and
+  provider data. Experimenting with oscillators and double bass.
 tags:
-- examples
-- videos
+  - examples
+  - videos
 featured: false
 image:
   feature: ''
   teaser: ''
   credit: ''
-
+_template: post
 ---
+
+
+
 NYC Wi-Fi Hotspot Locations is public data of Wi-Fi Providers:
 CityBridge, LLC (Free Beta): LinkNYC 1 gigabyte (GB), and Free Wi-Fi Internet Kiosks in NYC.
 

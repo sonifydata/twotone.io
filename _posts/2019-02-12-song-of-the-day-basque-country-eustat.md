@@ -2,25 +2,30 @@
 layout: article
 title: Basque Country EUSTAT "Song of the Day"
 short-title: Basque Country EUSTAT
-date: 2019-02-25 20:02:00 +0000
+date: '2019-02-25 20:02:00 +0000'
 modified: ''
 categories:
-- examples
-excerpt: Creating a "Song Of The Day" using behavioral survey data collected in 2013
-  to build a time-based sonification story.
+  - examples
+excerpt: >-
+  Creating a "Song Of The Day" using behavioral survey data collected in 2013 to
+  build a time-based sonification story.
 featured: true
 tags:
-- open data
+  - open data
 image:
   feature: ''
   teaser: ''
   credit: ''
 player:
-  src: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/575450994%3Fsecret_token%3Ds-8Qmb5&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
+  src: >-
+    https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/575450994%3Fsecret_token%3Ds-8Qmb5&color=%23f57c00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
   height: 400
   width: 435
-
+_template: post
 ---
+
+
+
 Datavized collaborated with Basque Country EUSTAT to create a sonification with TwoTone using Basque Country EUSTAT 'Use of Time' data from survey data collected in 2013.
 
 ## About the Data

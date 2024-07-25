@@ -2,21 +2,24 @@
 layout: article
 title: TwoTone Workshop - NYC Open Data Week 2019
 short-title: NYC Open Data Workshop
-date: 2019-03-11 14:00:00 -0400
+date: '2019-03-11 14:00:00 -0400'
 categories:
-- video
-- tutorials
+  - video
+  - tutorials
 excerpt: Learn how to use TwoTone with NYC Open Data
 modified: ''
 featured: false
 tags:
-- tutorials
+  - tutorials
 image:
   feature: ''
   teaser: ''
   credit: ''
-
+_template: post
 ---
+
+
+
 Watch this workshop video to learn about how to use TwoTone to sonify NYC Open Data.  As an official partner of NYC Open Data Week 2019, Datavized organized a TwoTone launch event on March 5, 2019. The public event featured an introduction from the Mayor's Office of Data Analytics and demo of the [NYC Open Data Portal](https://opendata.cityofnewyork.us/how-to/ "Getting Started with Open Data") and a demo of TwoTone using a [sample data set built into the tool](https://twotone.io/tutorials/introduction-to-twotone/ "Introduction to TwoTone") and sample data set from the NYC Open Data portal, a sonfication of [NYC 311 Rodents Complaints from 2010 to Present](https://twotone.io/examples/nyc-311-rodent-complaints/ "NYC 311 Rodent Complaints"). We also present a demo of [NYC Outdoor Swimming Pool Attendance](https://twotone.io/examples/nyc-outdoor-swimming-pool-attendance/ "NYC Swimming Pool Attendance") sonified and a walkthrough of the [Basque Country EUSTAT example](https://twotone.io/examples/song-of-the-day-basque-country-eustat/ "Basque Country EUSTAT example") "Song Of The Day"using behavioral survey open data collected in 2013 to build a time-based sonification story.
 
 To explore the NYC Open Data example in more depth, visit our post on sonifying [NYC 311 Rodents Complaints](https://twotone.io/examples/nyc-311-rodent-complaints/ "NYC 311 Rodent Complaints").

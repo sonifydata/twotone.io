@@ -2,22 +2,26 @@
 layout: article
 title: NYC Outdoor Swimming Pool Attendance
 short-title: NYC Swimming Pool
-date: 2019-02-20 13:00:00 +0000
+date: '2019-02-20 13:00:00 +0000'
 modified: ''
 categories:
-- examples
-excerpt: A creative musical interpretation of NYC Outdoor Swimming Pool Attendance.
+  - examples
+excerpt: >-
+  A creative musical interpretation of NYC Outdoor Swimming Pool Attendance.
   Experimenting with adding field audio recordings.
 tags:
-- examples
-- videos
+  - examples
+  - videos
 featured: true
 image:
   feature: ''
   teaser: ''
   credit: ''
-
+_template: post
 ---
+
+
+
 Department of Parks and Recreation (DPR) publishes attendance records annually for NYC Parks outdoor swimming pools.
 
 ### Listen to the Data
