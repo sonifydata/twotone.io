@@ -10,16 +10,20 @@ image:
   teaser: 
 
 ---
-<h3>Featured</h3>
+<h3>A selection of projects made with TwoTone</h3>  
+<div style='display: flex; flex-wrap: wrap; justify-content: space-between;'>
+
 <div class="tiles">
 {% for post in site.categories.examples %}
 {% if post.featured %}
 {% include post-grid.html %}
 {% endif %}
 {% endfor %}
-</div><!-- /.tiles -->
+</div>
+</div>
+<!-- /.tiles -->
 
-<h3>A selection of projects made with TwoTone</h3>  
+<hr>
 <div class="list">  
 {% for post in site.categories.examples %}  
 {% unless post.featured %}  

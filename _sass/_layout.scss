@@ -126,7 +126,7 @@
 /* Bottom menu navigation */
 
 .bottom-menu {
-	// @include clearfix;
+	 @include clearfix;
 	display: flex;
 	justify-content: space-between;
 
@@ -146,15 +146,11 @@
 	 ========================================================================== */
 
 #page-wrapper {
-	padding: 0 $gutter; // add white space for smaller screens
-	@include size(100% 100%);
-	-webkit-overflow-scrolling: touch;
+	//padding: 0 $gutter; // add white space for smaller screens
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
 	z-index: 2;
-	@include transform(translate(0,0));
-	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
-	&.slide {
-		@include transform(translate(-60rem,0));
-	}
 }
 
 /*
@@ -162,7 +158,22 @@
 	 ========================================================================== */
 
 #main {
+	background-color: lighten($color: darkcyan, $amount: 10);
+	h2 {
+		@include font-size(24);
+	}
+	a {
+		color: darkblue;
+	}
+
+	a:hover 
+	{
+		color: springgreen;
+	}
+	@include clearfix;
+	padding:  2rem;
 	.inner-wrap {
+		
 		@include media($medium) {
 			@include span-columns(9);
 		}

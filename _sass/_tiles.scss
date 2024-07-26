@@ -4,7 +4,11 @@
 
 .tile {
   @include outer-container;
-  margin-bottom: $gutter;
+  margin: $gutter;
+  background-color: lightblue;
+  padding: $gutter;
+  height: 20rem;
+  border-radius: 10px;
   @include media($micro) {
     @include fill-parent;
   }
@@ -12,6 +16,7 @@
     @include span-columns(3);
     @include omega(4n);
   }
+  
   .entry-date {
     display: none;
     @include font-size(14,no);

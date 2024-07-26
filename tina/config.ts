@@ -31,6 +31,55 @@ export default defineConfig({
   },
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
   schema: {
-    collections: [],
+    collections: [
+      {
+        label: 'Posts',
+        name: 'post',
+        path: '/_posts',
+        fields: [
+          {
+            type: 'string',
+            label: 'Title',
+            name: 'title',
+          },
+          {
+            type: 'datetime',
+            label: 'Date',
+            name: 'date',
+          },
+          {
+            type: 'string',
+            label: 'Categories',
+            name: 'categories',
+            list: true,
+            ui: {
+              component: 'tags',
+            },
+          },
+          {
+            type: 'boolean',
+            label: 'Featured',
+            name: 'featured',
+          },
+          {
+            type: 'object',
+            label: 'Image',
+            name: 'image',
+            fields: imageFields(),
+          },
+          {
+            type: 'string',
+            label: 'Excerpt',
+            name: 'excerpt'
+          },
+          {
+            type: 'rich-text',
+            label: 'Post Body',
+            name: 'body',
+            isBody: true,
+          },
+        ],
+      },
+    ],
   },
 });
