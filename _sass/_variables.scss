@@ -21,10 +21,10 @@ $border-radius               	: 3px;
    Color variables
    ========================================================================== */
 
-$white                        : #ebebeb;
+$white                        : ghostwhite;
 $black                        : #000;
 
-$body-color                  	: #e1e1e1;
+$body-color                  	: darken($color: cyan, $amount: 2);
 
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);

@@ -168,7 +168,7 @@
 
 	a:hover 
 	{
-		color: springgreen;
+		color: lighten($color: darkblue, $amount: 40);;
 	}
 	@include clearfix;
 	padding:  2rem;
