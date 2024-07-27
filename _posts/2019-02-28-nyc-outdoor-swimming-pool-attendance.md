@@ -22,6 +22,7 @@ _template: post
 
 
 
+
 Department of Parks and Recreation (DPR) publishes attendance records annually for NYC Parks outdoor swimming pools.
 
 ### Listen to the Data

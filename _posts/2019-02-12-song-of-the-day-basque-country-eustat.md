@@ -22,7 +22,9 @@ image:
 excerpt: >-
   Creating a "Song Of The Day" using behavioral survey data collected in 2013 to
   build a time-based sonification story.
+_template: post
 ---
+
 
 Datavized collaborated with Basque Country EUSTAT to create a sonification with TwoTone using Basque Country EUSTAT 'Use of Time' data from survey data collected in 2013.
 

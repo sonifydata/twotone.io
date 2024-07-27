@@ -22,6 +22,7 @@ _template: post
 
 
 
+
 This data set from Analyze Boston provides daily counts of firearms recovered by Boston Police Department since August 20, 2014. Recovery totals are provided for three distinct channels: crime, voluntary surrender, and gun buyback programs.
 
 ### Listen to the Data
