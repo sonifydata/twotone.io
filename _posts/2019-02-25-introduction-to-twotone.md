@@ -1,22 +1,19 @@
 ---
 layout: article
-title: Introduction to TwoTone
-date: 2022-02-10 23:00:00 +0000
-modified: 2022-02-10 23:00:00 +0000
-categories:
-- tutorials
-excerpt: Learn the basics of using TwoTone.
+modified: '2022-02-10 23:00:00 +0000'
 tags:
-- video
-- tutorial
+  - video
+  - tutorial
 short-title: ''
+title: Introduction to TwoTone
+date: 2022-02-10T23:00:00.000Z
+categories:
+  - tutorials
 featured: false
-image:
-  feature: ''
-  teaser: ''
-  credit: ''
-
+image: {}
+excerpt: Learn the basics of using TwoTone.
 ---
+
 Watch this introduction tutorial video to learn about how to get started using TwoTone. This walkthrough will show you the simple steps to get started with TwoTone so you'll be quickly on your way to creating your first data sonification.
 
 This tutorial uses the sample data set Honey Production in the USA (1998-2012), there are also several other spreadsheets built into the app to get you started and a handy tour built into the app.
@@ -25,7 +22,7 @@ For TwoTone documentation, visit ['How it Works'](https://twotone.io/how-it-work
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I0vL_g1DYmY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# 🆕 Interested in MIDI?
+# 🆕 Do you want new sounds?
 
 We are currently testing a new feature which lets you send notes from TwoTone and play them with sounds from other synthesisers or software! Are you interested in trying it out with your own setup?
 
