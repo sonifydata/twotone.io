@@ -6,11 +6,18 @@
   "author": "Michael Rose <michael@mademistakes.com>",
   "homepage": "http://mademistakes.com/",
   "license": "The MIT License (MIT)",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "tinacms dev -c \"bundle exec jekyll serve\"",
+    "tina:dev": "tinacms dev -c \"bundle exec jekyll serve\""
+  },
   "dependencies": {
     "tinacms": "^1.6.7"
   },
   "devDependencies": {
     "@tinacms/cli": "^1.5.49",
-    "@types/node": "^20.14.12"
+    "@types/node": "^18.19.46"
   }
 }

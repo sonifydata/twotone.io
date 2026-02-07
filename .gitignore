@@ -4,8 +4,12 @@ _site
 *.sublime-workspace
 codekit-config.json
 node_modules
+.npm-cache
+.npm-devdir
 _asset_bundler_cache
 .sass-cache
 .jekyll-metadata
+.bundle/
+vendor/bundle
 
 .env

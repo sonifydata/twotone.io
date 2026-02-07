@@ -62,7 +62,7 @@ owner:
   disqus-shortname:
 
 
-include:
+include: []
   # - .htaccess
 exclude:
   - "*.less"
